@@ -1,0 +1,101 @@
+//
+//  PrefixHeader.pch
+//  TheLifeAssistant
+//
+//  Created by I Smile going on 16/5/9.
+//  Copyright © 2016年 dongjiangpeng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//号码归属地查询API
+#define API_PHONENUM_ADDRESS @"http://apis.juhe.cn/mobile/get"
+#define KEY_PHONENUM_ADDRESS @"fb9a932b9771431370083bfd69bea057"
+
+//历史上的今天API
+#define API_HISTORY_TODAY @"http://api.juheapi.com/japi/toh"
+#define KEY_HISTORY_TODAY @"05048751468bc0e2d6768b7b6b6ca963"
+
+//股票数据API
+#define API_STOCK_DATA @"http://web.juhe.cn:8080/finance/stock/hs"
+#define KEY_STOCK_DATA @"876addd3272a496f4d3d857e9e46a02d"
+
+//通过关键字查询新闻API
+#define API_SEARCH_NEWS @"http://op.juhe.cn/onebox/news/query"
+#define KEY_SEARCH_NEWS @"417d3d1a9c2c337dafe48001be1bc719"
+
+//查询身份证信息API
+#define API_FIND_IDCARD @"http://KEYs.juhe.cn/idcard/index"
+#define KEY_FIND_IDCARD @"abfc34801830a1f929710c42c5f2e764"
+
+//查询天气KEY
+#define API_GET_WEATHER @"http://op.juhe.cn/onebox/weather/query"
+#define KEY_GET_WEATHER @"82d62158ba7426c75d9a7b099fae6aad"
+
+//笑话大全API
+#define API_GET_JOKE @"http://japi.juhe.cn/joke/content/list.from"
+#define KEY_GET_JOKE @"2599da76b9a39d1b0dbf739de810714d"
+
+//IP地址查询API
+#define API_IP_ADDRESS @"http://apis.juhe.cn/ip/ip2addr"
+#define KEY_IP_ADDRESS @"8a3ccb46a1be9cdbeadc1828365976ad"
+
+//电影票房API
+#define API_FILM_BOXOFFICE @"http://v.juhe.cn/boxoffice/rank"
+#define KEY_FILM_BOXOFFICE @"761a0cc62e030b9ce8e734b57ffc5044"
+
+//NBA赛事API
+#define API_NBA_GAME @"http://op.juhe.cn/onebox/basketball/nba"
+#define KEY_NBA_GAME @"567293977fb4a2eb850568efdcb6239d"
+
+//查询周边WIFI
+#define API_AROUND_WIFI @"http://apis.juhe.cn/wifi/local"
+#define KEY_AROUND_WIFI @"0f24e25f28f3844740d220a79984b1be"
+
+//货币汇率查询API
+#define API_MONEY_EXCHANGE @"http://web.juhe.cn:8080/finance/exchange/rmbquot"
+#define KEY_MONEY_EXCHANGE @"aaccf3e4951d7099f9f2d73265e0dfc1"
+
+//星座运势API
+#define API_CONSTELLATION_FORTUNE @"http://web.juhe.cn:8080/constellation/getAll"
+#define KEY_CONSTELLATION_FORTUNE @"e37f4991773b9f269114575721bbacb3"
+
+//影视检索API
+#define API_SEARCH_MOVIEINFO @"http://op.juhe.cn/onebox/movie/video"
+#define KEY_SEARCH_MOVIEINFO @"8932fc20fff59674308a2b3cf6a2e359"
+
+//微信精选API
+#define API_WEIXIN_ARTICLE @"http://v.juhe.cn/weixin/query"
+#define KEY_WEIXIN_ARTICLE @"7e8fad7586e6474e5012468d13e4b532"
+
+//查询足球联赛API
+#define API_FIND_FOOTBALL @"http://op.juhe.cn/onebox/football/league"
+#define KEY_FIND_FOOTBALL @"758b7a0d11d1d173c2df05e7ec403bb0"
+
+//火车时刻表查询API
+#define API_TRAIN_TIME @"http://op.juhe.cn/onebox/train/query"
+#define KEY_TRAIN_TIME @"3a56fe32bf68f7bf41547208ecb8f181"
+
+//周公解梦API
+#define API_CRAZY_DREAM @"http://v.juhe.cn/dream/category"
+#define KEY_CRAZY_DREAM @"8c484b1a9104899fccd7f4627686c73c"
+
+//新华字典API
+#define API_DICTIONARY @"http://v.juhe.cn/xhzd/query"
+#define KEY_DICTIONARY @"a101e12485acc8ce2fb129a8d9f6d1c7"
+
+//QQ号码测吉凶API
+#define API_QQ_TEST @"http://japi.juhe.cn/qqevaluate/qq"
+#define KEY_QQ_TEST @"09aa08dc30c895c81d5babbcb7ba7094"
+
+//成语词典API
+#define API_IDIOMS_DICTIONARY @"http://v.juhe.cn/chengyu/query"
+#define KEY_IDIOMS_DICTIONARY @"3c09823eb64983e7833e10f670eaa49d"
+
+
+
+#endif /* PrefixHeader_pch */
