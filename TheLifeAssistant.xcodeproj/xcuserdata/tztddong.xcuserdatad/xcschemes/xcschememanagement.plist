@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>TheLifeAssistant.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A2419EF31CE08C9B004FBEC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A2419F0C1CE08C9B004FBEC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A2419F171CE08C9B004FBEC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
