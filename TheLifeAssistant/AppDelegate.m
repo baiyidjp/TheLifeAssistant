@@ -22,6 +22,9 @@
     self.window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
     MainViewController *mainCtrl = [[MainViewController alloc]init];
     UINavigationController *navCtrl = [[UINavigationController alloc]initWithRootViewController:mainCtrl];
+    [navCtrl.navigationBar setBarTintColor:[UIColor colorWithHexString:@"2598f9"]];//导航栏背景色
+    [navCtrl.navigationBar setTintColor:[UIColor whiteColor]];//左右ietm
+    [navCtrl.navigationBar setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:[UIColor whiteColor],NSForegroundColorAttributeName, nil]];
     self.window.rootViewController = navCtrl;
     [self.window makeKeyAndVisible];
     

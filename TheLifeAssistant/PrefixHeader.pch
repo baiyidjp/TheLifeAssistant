@@ -96,6 +96,6 @@
 #define API_IDIOMS_DICTIONARY @"http://v.juhe.cn/chengyu/query"
 #define KEY_IDIOMS_DICTIONARY @"3c09823eb64983e7833e10f670eaa49d"
 
-
+#import "Header.h"
 
 #endif /* PrefixHeader_pch */
