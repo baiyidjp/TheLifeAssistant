@@ -639,6 +639,7 @@
 				TargetAttributes = {
 					A2419EF31CE08C9B004FBEC0 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = U37X4645WQ;
 					};
 					A2419F0C1CE08C9B004FBEC0 = {
 						CreatedOnToolsVersion = 7.3;
@@ -916,11 +917,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PREFIX_HEADER = "$(SRCROOT)/TheLifeAssistant/PrefixHeader.pch";
 				INFOPLIST_FILE = TheLifeAssistant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dong.TheLifeAssistant;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dong.TBShoppingCart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -929,11 +932,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PREFIX_HEADER = "$(SRCROOT)/TheLifeAssistant/PrefixHeader.pch";
 				INFOPLIST_FILE = TheLifeAssistant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dong.TheLifeAssistant;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dong.TBShoppingCart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

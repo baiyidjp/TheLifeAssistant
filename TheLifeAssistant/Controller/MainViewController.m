@@ -10,6 +10,7 @@
 #import "MainModel.h"
 #import "JPTableViewDelegate.h"
 #import "IDCardController.h"
+#import "PhoneNumController.h"
 
 @interface MainViewController ()
 
@@ -57,7 +58,7 @@
     UIViewController *nextCtrl = nil;
     switch (indexPath.row) {
         case 0:
-            
+            nextCtrl = [[PhoneNumController alloc]init];
             break;
         case 1:
             nextCtrl = [[IDCardController alloc]init];
