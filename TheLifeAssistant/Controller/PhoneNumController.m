@@ -46,7 +46,7 @@ static CGFloat kTextSize = 15;
         make.height.equalTo(@35);
     }];
     self.phoneText.textAlignment = NSTextAlignmentCenter;
-    self.phoneText.keyboardType = UIKeyboardTypeNumbersAndPunctuation;
+    self.phoneText.keyboardType = UIKeyboardTypePhonePad;
     self.phoneText.returnKeyType = UIReturnKeyDone;
     self.phoneText.clearButtonMode = UITextFieldViewModeWhileEditing;
     self.phoneText.layer.borderWidth = kTextBorderWidth;

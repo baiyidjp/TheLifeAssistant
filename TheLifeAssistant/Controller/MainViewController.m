@@ -11,6 +11,7 @@
 #import "JPTableViewDelegate.h"
 #import "IDCardController.h"
 #import "PhoneNumController.h"
+#import "WeiXinViewController.h"
 
 @interface MainViewController ()
 
@@ -73,7 +74,7 @@
             
             break;
         case 5:
-            
+            nextCtrl = [[WeiXinViewController alloc]init];
             break;
         case 6:
             

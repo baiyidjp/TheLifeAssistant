@@ -17,6 +17,8 @@
 #import "AFN_Request.h"
 #import "Masonry.h"
 #import "MBProgressHUD+Extension.h"
+#import "MJRefresh.h"
+#import "RequestFiledView.h"
 
 #define FONTSIZE(x)  [UIFont systemFontOfSize:x]//设置字体大小
 #define KWIDTH  [UIScreen mainScreen].bounds.size.width//屏幕的宽
@@ -25,6 +27,7 @@
 #define NAVHEIGHT 64 //导航栏的高度
 #define CELLHEIGHT 44
 #define TEXTSIZEWITHFONT(text,font) [text sizeWithAttributes:[NSMutableDictionary dictionaryWithObject:font forKey:NSFontAttributeName]]//根据文本及其字号返回size
+#define TEXTSIZEWITHSIZEANDFONT(text,size,font) [text boundingRectWithSize:size options:NSStringDrawingUsesLineFragmentOrigin attributes:[NSMutableDictionary dictionaryWithObject:font forKey:NSFontAttributeName] context:nil].size
 #define REQUESSUCCESS [[successData objectForKey:@"resultcode"] isEqualToString:@"200"]
 
 #endif /* Header_h */
