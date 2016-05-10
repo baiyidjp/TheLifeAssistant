@@ -29,7 +29,7 @@
 #define KEY_SEARCH_NEWS @"417d3d1a9c2c337dafe48001be1bc719"
 
 //查询身份证信息API
-#define API_FIND_IDCARD @"http://KEYs.juhe.cn/idcard/index"
+#define API_FIND_IDCARD @"http://apis.juhe.cn/idcard/index"
 #define KEY_FIND_IDCARD @"abfc34801830a1f929710c42c5f2e764"
 
 //查询天气KEY

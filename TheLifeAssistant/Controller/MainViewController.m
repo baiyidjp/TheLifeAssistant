@@ -9,6 +9,7 @@
 #import "MainViewController.h"
 #import "MainModel.h"
 #import "JPTableViewDelegate.h"
+#import "IDCardController.h"
 
 @interface MainViewController ()
 
@@ -59,7 +60,7 @@
             
             break;
         case 1:
-            
+            nextCtrl = [[IDCardController alloc]init];
             break;
         case 2:
             
