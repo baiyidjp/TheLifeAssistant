@@ -174,7 +174,7 @@ static NSInteger kOnePagNum = 20;//一页显示的条数
     
     WeiXinModelFrame *frame = self.dataArray[indexPath.row];
     WeiXinModel *model = frame.weiXinModel;
-    [CCWebViewController showWithContro:self withUrlStr:model.url withTitle:nil];
+    [CCWebViewController showWithContro:self withUrlStr:model.url withTitle:@"微信精选"];
 }
 //离开此页面 停止菊花转 取消请求
 - (void)viewWillDisappear:(BOOL)animated{

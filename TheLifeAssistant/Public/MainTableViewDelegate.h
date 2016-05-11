@@ -11,7 +11,7 @@
 
 typedef void(^selectCell)(NSIndexPath *indexPath,NSString *name);
 
-@interface JPTableViewDelegate : NSObject<UITableViewDataSource,UITableViewDelegate>
+@interface MainTableViewDelegate : NSObject<UITableViewDataSource,UITableViewDelegate>
 
 + (instancetype)createTableViewDelegateWithDataList:(NSArray *)dataList
                                         selectBlock:(selectCell)selectBlock;

@@ -6,19 +6,19 @@
 //  Copyright © 2016年 dongjiangpeng. All rights reserved.
 //
 
-#import "JPTableViewDelegate.h"
+#import "MainTableViewDelegate.h"
 #import "MainModel.h"
 
 static NSString *cellId = @"tableViewCellID";
 
-@interface JPTableViewDelegate ()
+@interface MainTableViewDelegate ()
 
 @property (nonatomic, strong) NSArray   *dataList;
 @property (nonatomic, copy)  selectCell selectBlock;
 
 @end
 
-@implementation JPTableViewDelegate
+@implementation MainTableViewDelegate
 
 
 + (instancetype)createTableViewDelegateWithDataList:(NSArray *)dataList selectBlock:(selectCell)selectBlock{
@@ -52,9 +52,10 @@ static NSString *cellId = @"tableViewCellID";
     
     MainModel *model = self.dataList[indexPath.row];
     cell.textLabel.text = model.name;
+    cell.textLabel.font = FONTSIZE(15);
     cell.imageView.image = [UIImage imageNamed:model.imagename];
-    
     cell.selectionStyle = UITableViewCellSelectionStyleNone;
+    
     return cell;
 }
 

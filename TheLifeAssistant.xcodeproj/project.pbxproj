@@ -59,7 +59,7 @@
 		A216F78D1CE1BC7D009F5821 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7731CE1BC7D009F5821 /* UIView+WebCacheOperation.m */; };
 		A216F7911CE1BCF4009F5821 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7901CE1BCF4009F5821 /* MainViewController.m */; };
 		A216F7941CE1BD10009F5821 /* MainModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7931CE1BD10009F5821 /* MainModel.m */; };
-		A216F7971CE1BDB7009F5821 /* JPTableViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7961CE1BDB7009F5821 /* JPTableViewDelegate.m */; };
+		A216F7971CE1BDB7009F5821 /* MainTableViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7961CE1BDB7009F5821 /* MainTableViewDelegate.m */; };
 		A216F7A61CE1C42E009F5821 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F79A1CE1C42E009F5821 /* AFHTTPSessionManager.m */; };
 		A216F7A71CE1C42E009F5821 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F79D1CE1C42E009F5821 /* AFNetworkReachabilityManager.m */; };
 		A216F7A81CE1C42E009F5821 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F79F1CE1C42E009F5821 /* AFSecurityPolicy.m */; };
@@ -84,6 +84,8 @@
 		A216F7E21CE1F1C2009F5821 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7E11CE1F1C2009F5821 /* MBProgressHUD.m */; };
 		A216F7E51CE1F249009F5821 /* PhoneNumController.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7E41CE1F249009F5821 /* PhoneNumController.m */; };
 		A225ED5F1CE2D58400171799 /* CCWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A225ED5E1CE2D58400171799 /* CCWebViewController.m */; };
+		A225ED621CE2DAF900171799 /* WeatherController.m in Sources */ = {isa = PBXBuildFile; fileRef = A225ED611CE2DAF900171799 /* WeatherController.m */; };
+		A225ED651CE2E05D00171799 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = A225ED641CE2E05D00171799 /* UIView+Toast.m */; };
 		A2419EF91CE08C9B004FBEC0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419EF81CE08C9B004FBEC0 /* main.m */; };
 		A2419EFC1CE08C9B004FBEC0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419EFB1CE08C9B004FBEC0 /* AppDelegate.m */; };
 		A2419F041CE08C9B004FBEC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2419F031CE08C9B004FBEC0 /* Assets.xcassets */; };
@@ -220,8 +222,8 @@
 		A216F7901CE1BCF4009F5821 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		A216F7921CE1BD10009F5821 /* MainModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainModel.h; sourceTree = "<group>"; };
 		A216F7931CE1BD10009F5821 /* MainModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainModel.m; sourceTree = "<group>"; };
-		A216F7951CE1BDB7009F5821 /* JPTableViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPTableViewDelegate.h; sourceTree = "<group>"; };
-		A216F7961CE1BDB7009F5821 /* JPTableViewDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPTableViewDelegate.m; sourceTree = "<group>"; };
+		A216F7951CE1BDB7009F5821 /* MainTableViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTableViewDelegate.h; sourceTree = "<group>"; };
+		A216F7961CE1BDB7009F5821 /* MainTableViewDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTableViewDelegate.m; sourceTree = "<group>"; };
 		A216F7991CE1C42E009F5821 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		A216F79A1CE1C42E009F5821 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
 		A216F79B1CE1C42E009F5821 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
@@ -274,6 +276,10 @@
 		A216F7E41CE1F249009F5821 /* PhoneNumController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneNumController.m; sourceTree = "<group>"; };
 		A225ED5D1CE2D58400171799 /* CCWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCWebViewController.h; sourceTree = "<group>"; };
 		A225ED5E1CE2D58400171799 /* CCWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCWebViewController.m; sourceTree = "<group>"; };
+		A225ED601CE2DAF900171799 /* WeatherController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherController.h; sourceTree = "<group>"; };
+		A225ED611CE2DAF900171799 /* WeatherController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeatherController.m; sourceTree = "<group>"; };
+		A225ED631CE2E05D00171799 /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
+		A225ED641CE2E05D00171799 /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
 		A2419EF41CE08C9B004FBEC0 /* TheLifeAssistant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheLifeAssistant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2419EF81CE08C9B004FBEC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A2419EFA1CE08C9B004FBEC0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -368,6 +374,8 @@
 		A216F7031CE1B326009F5821 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
+				A225ED631CE2E05D00171799 /* UIView+Toast.h */,
+				A225ED641CE2E05D00171799 /* UIView+Toast.m */,
 				A225ED5D1CE2D58400171799 /* CCWebViewController.h */,
 				A225ED5E1CE2D58400171799 /* CCWebViewController.m */,
 				A216F7E01CE1F1C2009F5821 /* MBProgressHUD.h */,
@@ -396,6 +404,8 @@
 				F5CFBE1B1CE227040004BDB8 /* ConstellationController.m */,
 				F5CFBE1D1CE22C6A0004BDB8 /* WeiXinViewController.h */,
 				F5CFBE1E1CE22C6A0004BDB8 /* WeiXinViewController.m */,
+				A225ED601CE2DAF900171799 /* WeatherController.h */,
+				A225ED611CE2DAF900171799 /* WeatherController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -447,8 +457,8 @@
 				A216F78E1CE1BC9E009F5821 /* Header.h */,
 				F5CFBE691CE23B870004BDB8 /* RequestFiledView.h */,
 				F5CFBE6A1CE23B870004BDB8 /* RequestFiledView.m */,
-				A216F7951CE1BDB7009F5821 /* JPTableViewDelegate.h */,
-				A216F7961CE1BDB7009F5821 /* JPTableViewDelegate.m */,
+				A216F7951CE1BDB7009F5821 /* MainTableViewDelegate.h */,
+				A216F7961CE1BDB7009F5821 /* MainTableViewDelegate.m */,
 				A216F7AC1CE1C4F1009F5821 /* AFN_Request.h */,
 				A216F7AD1CE1C4F1009F5821 /* AFN_Request.m */,
 			);
@@ -915,6 +925,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A225ED651CE2E05D00171799 /* UIView+Toast.m in Sources */,
 				A216F7881CE1BC7D009F5821 /* UIImage+GIF.m in Sources */,
 				A216F7DC1CE1F0EF009F5821 /* MBProgressHUD+Extension.m in Sources */,
 				F5CFBE1C1CE227040004BDB8 /* ConstellationController.m in Sources */,
@@ -933,6 +944,7 @@
 				A216F77E1CE1BC7D009F5821 /* MKAnnotationView+WebCache.m in Sources */,
 				F5CFBE5F1CE237550004BDB8 /* MJRefreshBackNormalFooter.m in Sources */,
 				A216F7D11CE1D06B009F5821 /* MASLayoutConstraint.m in Sources */,
+				A225ED621CE2DAF900171799 /* WeatherController.m in Sources */,
 				F5CFBE621CE237550004BDB8 /* MJRefreshNormalHeader.m in Sources */,
 				F5CFBE5D1CE237550004BDB8 /* MJRefreshAutoStateFooter.m in Sources */,
 				A216F7751CE1BC7D009F5821 /* MJFoundation.m in Sources */,
@@ -974,7 +986,7 @@
 				A216F7AB1CE1C42E009F5821 /* AFURLSessionManager.m in Sources */,
 				F5CFBE661CE237550004BDB8 /* UIScrollView+MJExtension.m in Sources */,
 				A216F7821CE1BC7D009F5821 /* SDWebImageDecoder.m in Sources */,
-				A216F7971CE1BDB7009F5821 /* JPTableViewDelegate.m in Sources */,
+				A216F7971CE1BDB7009F5821 /* MainTableViewDelegate.m in Sources */,
 				A216F77D1CE1BC7D009F5821 /* NSString+MJExtension.m in Sources */,
 				A216F78B1CE1BC7D009F5821 /* UIImageView+HighlightedWebCache.m in Sources */,
 				F5CFBE281CE22F160004BDB8 /* WeiXinModelFrame.m in Sources */,

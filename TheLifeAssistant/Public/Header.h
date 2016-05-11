@@ -19,6 +19,7 @@
 #import "MBProgressHUD+Extension.h"
 #import "MJRefresh.h"
 #import "RequestFiledView.h"
+#import "UIView+Toast.h"
 
 #define FONTSIZE(x)  [UIFont systemFontOfSize:x]//设置字体大小
 #define KWIDTH  [UIScreen mainScreen].bounds.size.width//屏幕的宽
