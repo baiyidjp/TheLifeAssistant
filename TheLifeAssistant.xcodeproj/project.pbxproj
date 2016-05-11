@@ -83,6 +83,7 @@
 		A216F7DC1CE1F0EF009F5821 /* MBProgressHUD+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7DA1CE1F0EF009F5821 /* MBProgressHUD+Extension.m */; };
 		A216F7E21CE1F1C2009F5821 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7E11CE1F1C2009F5821 /* MBProgressHUD.m */; };
 		A216F7E51CE1F249009F5821 /* PhoneNumController.m in Sources */ = {isa = PBXBuildFile; fileRef = A216F7E41CE1F249009F5821 /* PhoneNumController.m */; };
+		A225ED5F1CE2D58400171799 /* CCWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A225ED5E1CE2D58400171799 /* CCWebViewController.m */; };
 		A2419EF91CE08C9B004FBEC0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419EF81CE08C9B004FBEC0 /* main.m */; };
 		A2419EFC1CE08C9B004FBEC0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419EFB1CE08C9B004FBEC0 /* AppDelegate.m */; };
 		A2419F041CE08C9B004FBEC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2419F031CE08C9B004FBEC0 /* Assets.xcassets */; };
@@ -271,6 +272,8 @@
 		A216F7E11CE1F1C2009F5821 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 		A216F7E31CE1F249009F5821 /* PhoneNumController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneNumController.h; sourceTree = "<group>"; };
 		A216F7E41CE1F249009F5821 /* PhoneNumController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneNumController.m; sourceTree = "<group>"; };
+		A225ED5D1CE2D58400171799 /* CCWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCWebViewController.h; sourceTree = "<group>"; };
+		A225ED5E1CE2D58400171799 /* CCWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCWebViewController.m; sourceTree = "<group>"; };
 		A2419EF41CE08C9B004FBEC0 /* TheLifeAssistant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheLifeAssistant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2419EF81CE08C9B004FBEC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A2419EFA1CE08C9B004FBEC0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -365,6 +368,8 @@
 		A216F7031CE1B326009F5821 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
+				A225ED5D1CE2D58400171799 /* CCWebViewController.h */,
+				A225ED5E1CE2D58400171799 /* CCWebViewController.m */,
 				A216F7E01CE1F1C2009F5821 /* MBProgressHUD.h */,
 				A216F7E11CE1F1C2009F5821 /* MBProgressHUD.m */,
 				A216F7D81CE1F0EF009F5821 /* MBProgressHUD.bundle */,
@@ -956,6 +961,7 @@
 				A216F7771CE1BC7D009F5821 /* MJPropertyKey.m in Sources */,
 				A216F7A71CE1C42E009F5821 /* AFNetworkReachabilityManager.m in Sources */,
 				A216F7781CE1BC7D009F5821 /* MJPropertyType.m in Sources */,
+				A225ED5F1CE2D58400171799 /* CCWebViewController.m in Sources */,
 				A216F7791CE1BC7D009F5821 /* NSObject+MJClass.m in Sources */,
 				A216F7811CE1BC7D009F5821 /* SDWebImageCompat.m in Sources */,
 				A216F7E51CE1F249009F5821 /* PhoneNumController.m in Sources */,

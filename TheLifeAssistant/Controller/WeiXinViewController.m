@@ -10,6 +10,7 @@
 #import "WeiXinModelFrame.h"
 #import "WeiXinModel.h"
 #import "WeiXinTableViewCell.h"
+#import "CCWebViewController.h"
 
 static NSInteger kOnePagNum = 20;//一页显示的条数
 
@@ -29,6 +30,10 @@ static NSInteger kOnePagNum = 20;//一页显示的条数
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor whiteColor];
+    
+    UIBarButtonItem *backItem = [[UIBarButtonItem alloc]init];
+    backItem.title = @"";
+    self.navigationItem.backBarButtonItem = backItem;
     
     [self configView];
     [self refreshlist];
@@ -163,6 +168,13 @@ static NSInteger kOnePagNum = 20;//一页显示的条数
 
     WeiXinModelFrame *frame = self.dataArray[indexPath.row];
     return frame.cellHeight;
+}
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    
+    WeiXinModelFrame *frame = self.dataArray[indexPath.row];
+    WeiXinModel *model = frame.weiXinModel;
+    [CCWebViewController showWithContro:self withUrlStr:model.url withTitle:nil];
 }
 //离开此页面 停止菊花转 取消请求
 - (void)viewWillDisappear:(BOOL)animated{
