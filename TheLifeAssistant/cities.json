@@ -1,0 +1,1707 @@
+[
+    {
+        "aliasname": "ABAZANGZUQIANGZUZIZHIZHOU",
+        "areaid": "513200",
+        "areaname": "阿坝藏族羌族自治州"
+    },
+    {
+        "aliasname": "AKESUDIQU",
+        "areaid": "652900",
+        "areaname": "阿克苏地区"
+    },
+    {
+        "aliasname": "ALASHANMENG",
+        "areaid": "152900",
+        "areaname": "阿拉善盟"
+    },
+    {
+        "aliasname": "ALETAIDIQU",
+        "areaid": "654300",
+        "areaname": "阿勒泰地区"
+    },
+    {
+        "aliasname": "ALIDIQU",
+        "areaid": "542500",
+        "areaname": "阿里地区"
+    },
+    {
+        "aliasname": "ANKANGSHI",
+        "areaid": "610900",
+        "areaname": "安康市"
+    },
+    {
+        "aliasname": "ANQINGSHI",
+        "areaid": "340800",
+        "areaname": "安庆市"
+    },
+    {
+        "aliasname": "ANSHANSHI",
+        "areaid": "210300",
+        "areaname": "鞍山市"
+    },
+    {
+        "aliasname": "ANSHUNSHI",
+        "areaid": "520400",
+        "areaname": "安顺市"
+    },
+    {
+        "aliasname": "ANYANGSHI",
+        "areaid": "410500",
+        "areaname": "安阳市"
+    },
+    {
+        "aliasname": "AOMENTEBIEXINGZHENGQU",
+        "areaid": "820000",
+        "areaname": "澳门特别行政区"
+    },
+    {
+        "aliasname": "BAICHENGSHI",
+        "areaid": "220800",
+        "areaname": "白城市"
+    },
+    {
+        "aliasname": "BAISESHI",
+        "areaid": "451000",
+        "areaname": "百色市"
+    },
+    {
+        "aliasname": "BAISHANSHI",
+        "areaid": "220600",
+        "areaname": "白山市"
+    },
+    {
+        "aliasname": "BAIYINSHI",
+        "areaid": "620400",
+        "areaname": "白银市"
+    },
+    {
+        "aliasname": "BANGBUSHI",
+        "areaid": "340300",
+        "areaname": "蚌埠市"
+    },
+    {
+        "aliasname": "BAODINGSHI",
+        "areaid": "130600",
+        "areaname": "保定市"
+    },
+    {
+        "aliasname": "BAOJISHI",
+        "areaid": "610300",
+        "areaname": "宝鸡市"
+    },
+    {
+        "aliasname": "BAOSHANSHI",
+        "areaid": "530500",
+        "areaname": "保山市"
+    },
+    {
+        "aliasname": "BAOTOUSHI",
+        "areaid": "150200",
+        "areaname": "包头市"
+    },
+    {
+        "aliasname": "BAYANNAOERSHI",
+        "areaid": "150800",
+        "areaname": "巴彦淖尔市"
+    },
+    {
+        "aliasname": "BAYINGUOLENGMENGGUZIZHIZHOU",
+        "areaid": "652800",
+        "areaname": "巴音郭楞蒙古自治州"
+    },
+    {
+        "aliasname": "BAZHONGSHI",
+        "areaid": "511900",
+        "areaname": "巴中市"
+    },
+    {
+        "aliasname": "BEIHAISHI",
+        "areaid": "450500",
+        "areaname": "北海市"
+    },
+    {
+        "aliasname": "BEIJINGSHI",
+        "areaid": "110000",
+        "areaname": "北京市"
+    },
+    {
+        "aliasname": "BENXISHI",
+        "areaid": "210500",
+        "areaname": "本溪市"
+    },
+    {
+        "aliasname": "BIJIEDIQU",
+        "areaid": "522400",
+        "areaname": "毕节地区"
+    },
+    {
+        "aliasname": "BINZHOUSHI",
+        "areaid": "371600",
+        "areaname": "滨州市"
+    },
+    {
+        "aliasname": "BOERTALAMENGGUZIZHIZHOU",
+        "areaid": "652700",
+        "areaname": "博尔塔拉蒙古自治州"
+    },
+    {
+        "aliasname": "BOZHOUSHI",
+        "areaid": "341600",
+        "areaname": "亳州市"
+    },
+    {
+        "aliasname": "CANGZHOUSHI",
+        "areaid": "130900",
+        "areaname": "沧州市"
+    },
+    {
+        "aliasname": "CHANGDESHI",
+        "areaid": "430700",
+        "areaname": "常德市"
+    },
+    {
+        "aliasname": "CHANGDOUDIQU",
+        "areaid": "542100",
+        "areaname": "昌都地区"
+    },
+    {
+        "aliasname": "CHANGJIHUIZUZIZHIZHOU",
+        "areaid": "652300",
+        "areaname": "昌吉回族自治州"
+    },
+    {
+        "aliasname": "CHANGZHOUSHI",
+        "areaid": "320400",
+        "areaname": "常州市"
+    },
+    {
+        "aliasname": "CHAOHUSHI",
+        "areaid": "341400",
+        "areaname": "巢湖市"
+    },
+    {
+        "aliasname": "CHAOYANGSHI",
+        "areaid": "211300",
+        "areaname": "朝阳市"
+    },
+    {
+        "aliasname": "CHAOZHOUSHI",
+        "areaid": "445100",
+        "areaname": "潮州市"
+    },
+    {
+        "aliasname": "CHENGDESHI",
+        "areaid": "130800",
+        "areaname": "承德市"
+    },
+    {
+        "aliasname": "CHENGDOUSHI",
+        "areaid": "510100",
+        "areaname": "成都市"
+    },
+    {
+        "aliasname": "CHENZHOUSHI",
+        "areaid": "431000",
+        "areaname": "郴州市"
+    },
+    {
+        "aliasname": "CHIFENGSHI",
+        "areaid": "150400",
+        "areaname": "赤峰市"
+    },
+    {
+        "aliasname": "CHIZHOUSHI",
+        "areaid": "341700",
+        "areaname": "池州市"
+    },
+    {
+        "aliasname": "CHONGZUOSHI",
+        "areaid": "451400",
+        "areaname": "崇左市"
+    },
+    {
+        "aliasname": "CHUXIONGYIZUZIZHIZHOU",
+        "areaid": "532300",
+        "areaname": "楚雄彝族自治州"
+    },
+    {
+        "aliasname": "CHUZHOUSHI",
+        "areaid": "341100",
+        "areaname": "滁州市"
+    },
+    {
+        "aliasname": "DALIANSHI",
+        "areaid": "210200",
+        "areaname": "大连市"
+    },
+    {
+        "aliasname": "DALIBAIZUZIZHIZHOU",
+        "areaid": "532900",
+        "areaname": "大理白族自治州"
+    },
+    {
+        "aliasname": "DANDONGSHI",
+        "areaid": "210600",
+        "areaname": "丹东市"
+    },
+    {
+        "aliasname": "DAQINGSHI",
+        "areaid": "230600",
+        "areaname": "大庆市"
+    },
+    {
+        "aliasname": "DATONGSHI",
+        "areaid": "140200",
+        "areaname": "大同市"
+    },
+    {
+        "aliasname": "DAXINGANLINGDIQU",
+        "areaid": "232700",
+        "areaname": "大兴安岭地区"
+    },
+    {
+        "aliasname": "DAZHOUSHI",
+        "areaid": "511700",
+        "areaname": "达州市"
+    },
+    {
+        "aliasname": "DEHONGDAIZUJINGPOZUZIZHIZHOU",
+        "areaid": "533100",
+        "areaname": "德宏傣族景颇族自治州"
+    },
+    {
+        "aliasname": "DEYANGSHI",
+        "areaid": "510600",
+        "areaname": "德阳市"
+    },
+    {
+        "aliasname": "DEZHOUSHI",
+        "areaid": "371400",
+        "areaname": "德州市"
+    },
+    {
+        "aliasname": "DINGXISHI",
+        "areaid": "621100",
+        "areaname": "定西市"
+    },
+    {
+        "aliasname": "DIQINGZANGZUZIZHIZHOU",
+        "areaid": "533400",
+        "areaname": "迪庆藏族自治州"
+    },
+    {
+        "aliasname": "DONGGUANSHI",
+        "areaid": "441900",
+        "areaname": "东莞市"
+    },
+    {
+        "aliasname": "DONGYINGSHI",
+        "areaid": "370500",
+        "areaname": "东营市"
+    },
+    {
+        "aliasname": "EERDUOSISHI",
+        "areaid": "150600",
+        "areaname": "鄂尔多斯市"
+    },
+    {
+        "aliasname": "ENSHITUJIAZUMIAOZUZIZHIZHOU",
+        "areaid": "422800",
+        "areaname": "恩施土家族苗族自治州"
+    },
+    {
+        "aliasname": "EZHOUSHI",
+        "areaid": "420700",
+        "areaname": "鄂州市"
+    },
+    {
+        "aliasname": "FANGCHENGGANGSHI",
+        "areaid": "450600",
+        "areaname": "防城港市"
+    },
+    {
+        "aliasname": "FOSHANSHI",
+        "areaid": "440600",
+        "areaname": "佛山市"
+    },
+    {
+        "aliasname": "FUSHUNSHI",
+        "areaid": "210400",
+        "areaname": "抚顺市"
+    },
+    {
+        "aliasname": "FUXINSHI",
+        "areaid": "210900",
+        "areaname": "阜新市"
+    },
+    {
+        "aliasname": "FUYANGSHI",
+        "areaid": "341200",
+        "areaname": "阜阳市"
+    },
+    {
+        "aliasname": "FUZHOUSHI",
+        "areaid": "361000",
+        "areaname": "抚州市"
+    },
+    {
+        "aliasname": "FUZHOUSHI",
+        "areaid": "350100",
+        "areaname": "福州市"
+    },
+    {
+        "aliasname": "GANNANZANGZUZIZHIZHOU",
+        "areaid": "623000",
+        "areaname": "甘南藏族自治州"
+    },
+    {
+        "aliasname": "GANZHOUSHI",
+        "areaid": "360700",
+        "areaname": "赣州市"
+    },
+    {
+        "aliasname": "GANZIZANGZUZIZHIZHOU",
+        "areaid": "513300",
+        "areaname": "甘孜藏族自治州"
+    },
+    {
+        "aliasname": "GUANGANSHI",
+        "areaid": "511600",
+        "areaname": "广安市"
+    },
+    {
+        "aliasname": "GUANGYUANSHI",
+        "areaid": "510800",
+        "areaname": "广元市"
+    },
+    {
+        "aliasname": "GUANGZHOUSHI",
+        "areaid": "440100",
+        "areaname": "广州市"
+    },
+    {
+        "aliasname": "GUIGANGSHI",
+        "areaid": "450800",
+        "areaname": "贵港市"
+    },
+    {
+        "aliasname": "GUILINSHI",
+        "areaid": "450300",
+        "areaname": "桂林市"
+    },
+    {
+        "aliasname": "GUIYANGSHI",
+        "areaid": "520100",
+        "areaname": "贵阳市"
+    },
+    {
+        "aliasname": "GUOLUOZANGZUZIZHIZHOU",
+        "areaid": "632600",
+        "areaname": "果洛藏族自治州"
+    },
+    {
+        "aliasname": "GUYUANSHI",
+        "areaid": "640400",
+        "areaname": "固原市"
+    },
+    {
+        "aliasname": "HAERBINSHI",
+        "areaid": "230100",
+        "areaname": "哈尔滨市"
+    },
+    {
+        "aliasname": "HAIBEIZANGZUZIZHIZHOU",
+        "areaid": "632200",
+        "areaname": "海北藏族自治州"
+    },
+    {
+        "aliasname": "HAIDONGDIQU",
+        "areaid": "632100",
+        "areaname": "海东地区"
+    },
+    {
+        "aliasname": "HAIKOUSHI",
+        "areaid": "460100",
+        "areaname": "海口市"
+    },
+    {
+        "aliasname": "HAINANZANGZUZIZHIZHOU",
+        "areaid": "632500",
+        "areaname": "海南藏族自治州"
+    },
+    {
+        "aliasname": "HAIXIMENGGUZUZANGZUZIZHIZHOU",
+        "areaid": "632800",
+        "areaname": "海西蒙古族藏族自治州"
+    },
+    {
+        "aliasname": "HAMIDIQU",
+        "areaid": "652200",
+        "areaname": "哈密地区"
+    },
+    {
+        "aliasname": "HANDANSHI",
+        "areaid": "130400",
+        "areaname": "邯郸市"
+    },
+    {
+        "aliasname": "HANGZHOUSHI",
+        "areaid": "330100",
+        "areaname": "杭州市"
+    },
+    {
+        "aliasname": "HANZHONGSHI",
+        "areaid": "610700",
+        "areaname": "汉中市"
+    },
+    {
+        "aliasname": "HEBISHI",
+        "areaid": "410600",
+        "areaname": "鹤壁市"
+    },
+    {
+        "aliasname": "HECHISHI",
+        "areaid": "451200",
+        "areaname": "河池市"
+    },
+    {
+        "aliasname": "HEFEISHI",
+        "areaid": "340100",
+        "areaname": "合肥市"
+    },
+    {
+        "aliasname": "HEGANGSHI",
+        "areaid": "230400",
+        "areaname": "鹤岗市"
+    },
+    {
+        "aliasname": "HEIHESHI",
+        "areaid": "231100",
+        "areaname": "黑河市"
+    },
+    {
+        "aliasname": "HENGSHUISHI",
+        "areaid": "131100",
+        "areaname": "衡水市"
+    },
+    {
+        "aliasname": "HENGYANGSHI",
+        "areaid": "430400",
+        "areaname": "衡阳市"
+    },
+    {
+        "aliasname": "HETIANDIQU",
+        "areaid": "653200",
+        "areaname": "和田地区"
+    },
+    {
+        "aliasname": "HEYUANSHI",
+        "areaid": "441600",
+        "areaname": "河源市"
+    },
+    {
+        "aliasname": "HEZESHI",
+        "areaid": "371700",
+        "areaname": "荷泽市"
+    },
+    {
+        "aliasname": "HEZHOUSHI",
+        "areaid": "451100",
+        "areaname": "贺州市"
+    },
+    {
+        "aliasname": "HONGHEHANIZUYIZUZIZHIZHOU",
+        "areaid": "532500",
+        "areaname": "红河哈尼族彝族自治州"
+    },
+    {
+        "aliasname": "HUAIANSHI",
+        "areaid": "320800",
+        "areaname": "淮安市"
+    },
+    {
+        "aliasname": "HUAIBEISHI",
+        "areaid": "340600",
+        "areaname": "淮北市"
+    },
+    {
+        "aliasname": "HUAIHUASHI",
+        "areaid": "431200",
+        "areaname": "怀化市"
+    },
+    {
+        "aliasname": "HUAINANSHI",
+        "areaid": "340400",
+        "areaname": "淮南市"
+    },
+    {
+        "aliasname": "HUANGGANGSHI",
+        "areaid": "421100",
+        "areaname": "黄冈市"
+    },
+    {
+        "aliasname": "HUANGNANZANGZUZIZHIZHOU",
+        "areaid": "632300",
+        "areaname": "黄南藏族自治州"
+    },
+    {
+        "aliasname": "HUANGSHANSHI",
+        "areaid": "341000",
+        "areaname": "黄山市"
+    },
+    {
+        "aliasname": "HUANGSHISHI",
+        "areaid": "420200",
+        "areaname": "黄石市"
+    },
+    {
+        "aliasname": "HUHEHAOTESHI",
+        "areaid": "150100",
+        "areaname": "呼和浩特市"
+    },
+    {
+        "aliasname": "HUIZHOUSHI",
+        "areaid": "441300",
+        "areaname": "惠州市"
+    },
+    {
+        "aliasname": "HULUDAOSHI",
+        "areaid": "211400",
+        "areaname": "葫芦岛市"
+    },
+    {
+        "aliasname": "HULUNBEIERSHI",
+        "areaid": "150700",
+        "areaname": "呼伦贝尔市"
+    },
+    {
+        "aliasname": "HUZHOUSHI",
+        "areaid": "330500",
+        "areaname": "湖州市"
+    },
+    {
+        "aliasname": "JIAMUSISHI",
+        "areaid": "230800",
+        "areaname": "佳木斯市"
+    },
+    {
+        "aliasname": "JIANGMENSHI",
+        "areaid": "440700",
+        "areaname": "江门市"
+    },
+    {
+        "aliasname": "JIANSHI",
+        "areaid": "360800",
+        "areaname": "吉安市"
+    },
+    {
+        "aliasname": "JIAOZUOSHI",
+        "areaid": "410800",
+        "areaname": "焦作市"
+    },
+    {
+        "aliasname": "JIAXINGSHI",
+        "areaid": "330400",
+        "areaname": "嘉兴市"
+    },
+    {
+        "aliasname": "JIAYUGUANSHI",
+        "areaid": "620200",
+        "areaname": "嘉峪关市"
+    },
+    {
+        "aliasname": "JIEYANGSHI",
+        "areaid": "445200",
+        "areaname": "揭阳市"
+    },
+    {
+        "aliasname": "JILINSHI",
+        "areaid": "220200",
+        "areaname": "吉林市"
+    },
+    {
+        "aliasname": "JINANSHI",
+        "areaid": "370100",
+        "areaname": "济南市"
+    },
+    {
+        "aliasname": "JINCHANGSHI",
+        "areaid": "620300",
+        "areaname": "金昌市"
+    },
+    {
+        "aliasname": "JINCHENGSHI",
+        "areaid": "140500",
+        "areaname": "晋城市"
+    },
+    {
+        "aliasname": "JINGDEZHENSHI",
+        "areaid": "360200",
+        "areaname": "景德镇市"
+    },
+    {
+        "aliasname": "JINGMENSHI",
+        "areaid": "420800",
+        "areaname": "荆门市"
+    },
+    {
+        "aliasname": "JINGZHOUSHI",
+        "areaid": "421000",
+        "areaname": "荆州市"
+    },
+    {
+        "aliasname": "JINHUASHI",
+        "areaid": "330700",
+        "areaname": "金华市"
+    },
+    {
+        "aliasname": "JININGSHI",
+        "areaid": "370800",
+        "areaname": "济宁市"
+    },
+    {
+        "aliasname": "JINZHONGSHI",
+        "areaid": "140700",
+        "areaname": "晋中市"
+    },
+    {
+        "aliasname": "JINZHOUSHI",
+        "areaid": "210700",
+        "areaname": "锦州市"
+    },
+    {
+        "aliasname": "JIUJIANGSHI",
+        "areaid": "360400",
+        "areaname": "九江市"
+    },
+    {
+        "aliasname": "JIUQUANSHI",
+        "areaid": "620900",
+        "areaname": "酒泉市"
+    },
+    {
+        "aliasname": "JIXISHI",
+        "areaid": "230300",
+        "areaname": "鸡西市"
+    },
+    {
+        "aliasname": "KAIFENGSHI",
+        "areaid": "410200",
+        "areaname": "开封市"
+    },
+    {
+        "aliasname": "KASHENDIQU",
+        "areaid": "653100",
+        "areaname": "喀什地区"
+    },
+    {
+        "aliasname": "KELAMAYISHI",
+        "areaid": "650200",
+        "areaname": "克拉玛依市"
+    },
+    {
+        "aliasname": "KELAMAYISHITULUFANDIQU",
+        "areaid": "652100",
+        "areaname": "克拉玛依市吐鲁番地区"
+    },
+    {
+        "aliasname": "KEZILESUKEERKEZIZIZHIZHOU",
+        "areaid": "653000",
+        "areaname": "克孜勒苏柯尔克孜自治州"
+    },
+    {
+        "aliasname": "KUNMINGSHI",
+        "areaid": "530100",
+        "areaname": "昆明市"
+    },
+    {
+        "aliasname": "LAIBINSHI",
+        "areaid": "451300",
+        "areaname": "来宾市"
+    },
+    {
+        "aliasname": "LAIWUSHI",
+        "areaid": "371200",
+        "areaname": "莱芜市"
+    },
+    {
+        "aliasname": "LANGFANGSHI",
+        "areaid": "131000",
+        "areaname": "廊坊市"
+    },
+    {
+        "aliasname": "LANZHOUSHI",
+        "areaid": "620100",
+        "areaname": "兰州市"
+    },
+    {
+        "aliasname": "LASASHI",
+        "areaid": "540100",
+        "areaname": "拉萨市"
+    },
+    {
+        "aliasname": "LESHANSHI",
+        "areaid": "511100",
+        "areaname": "乐山市"
+    },
+    {
+        "aliasname": "LIANGSHANYIZUZIZHIZHOU",
+        "areaid": "513400",
+        "areaname": "凉山彝族自治州"
+    },
+    {
+        "aliasname": "LIANYUNGANGSHI",
+        "areaid": "320700",
+        "areaname": "连云港市"
+    },
+    {
+        "aliasname": "LIAOCHENGSHI",
+        "areaid": "371500",
+        "areaname": "聊城市"
+    },
+    {
+        "aliasname": "LIAOYANGSHI",
+        "areaid": "211000",
+        "areaname": "辽阳市"
+    },
+    {
+        "aliasname": "LIAOYUANSHI",
+        "areaid": "220400",
+        "areaname": "辽源市"
+    },
+    {
+        "aliasname": "LIJIANGSHI",
+        "areaid": "530700",
+        "areaname": "丽江市"
+    },
+    {
+        "aliasname": "LINCANGSHI",
+        "areaid": "530900",
+        "areaname": "临沧市"
+    },
+    {
+        "aliasname": "LINFENSHI",
+        "areaid": "141000",
+        "areaname": "临汾市"
+    },
+    {
+        "aliasname": "LINXIAHUIZUZIZHIZHOU",
+        "areaid": "622900",
+        "areaname": "临夏回族自治州"
+    },
+    {
+        "aliasname": "LINYISHI",
+        "areaid": "371300",
+        "areaname": "临沂市"
+    },
+    {
+        "aliasname": "LINZHIDIQU",
+        "areaid": "542600",
+        "areaname": "林芝地区"
+    },
+    {
+        "aliasname": "LISHUISHI",
+        "areaid": "331100",
+        "areaname": "丽水市"
+    },
+    {
+        "aliasname": "LIUANSHI",
+        "areaid": "341500",
+        "areaname": "六安市"
+    },
+    {
+        "aliasname": "LIUPANSHUISHI",
+        "areaid": "520200",
+        "areaname": "六盘水市"
+    },
+    {
+        "aliasname": "LIUZHOUSHI",
+        "areaid": "450200",
+        "areaname": "柳州市"
+    },
+    {
+        "aliasname": "LONGNANSHI",
+        "areaid": "621200",
+        "areaname": "陇南市"
+    },
+    {
+        "aliasname": "LONGYANSHI",
+        "areaid": "350800",
+        "areaname": "龙岩市"
+    },
+    {
+        "aliasname": "LOUDISHI",
+        "areaid": "431300",
+        "areaname": "娄底市"
+    },
+    {
+        "aliasname": "LUOHESHI",
+        "areaid": "411100",
+        "areaname": "漯河市"
+    },
+    {
+        "aliasname": "LUOYANGSHI",
+        "areaid": "410300",
+        "areaname": "洛阳市"
+    },
+    {
+        "aliasname": "LUZHOUSHI",
+        "areaid": "510500",
+        "areaname": "泸州市"
+    },
+    {
+        "aliasname": "LVLIANGSHI",
+        "areaid": "141100",
+        "areaname": "吕梁市"
+    },
+    {
+        "aliasname": "MAANSHANSHI",
+        "areaid": "340500",
+        "areaname": "马鞍山市"
+    },
+    {
+        "aliasname": "MAOMINGSHI",
+        "areaid": "440900",
+        "areaname": "茂名市"
+    },
+    {
+        "aliasname": "MEISHANSHI",
+        "areaid": "511400",
+        "areaname": "眉山市"
+    },
+    {
+        "aliasname": "MEIZHOUSHI",
+        "areaid": "441400",
+        "areaname": "梅州市"
+    },
+    {
+        "aliasname": "MIANYANGSHI",
+        "areaid": "510700",
+        "areaname": "绵阳市"
+    },
+    {
+        "aliasname": "MUDANJIANGSHI",
+        "areaid": "231000",
+        "areaname": "牡丹江市"
+    },
+    {
+        "aliasname": "NANCHANGSHI",
+        "areaid": "360100",
+        "areaname": "南昌市"
+    },
+    {
+        "aliasname": "NANCHONGSHI",
+        "areaid": "511300",
+        "areaname": "南充市"
+    },
+    {
+        "aliasname": "NANJINGSHI",
+        "areaid": "320100",
+        "areaname": "南京市"
+    },
+    {
+        "aliasname": "NANNINGSHI",
+        "areaid": "450100",
+        "areaname": "南宁市"
+    },
+    {
+        "aliasname": "NANPINGSHI",
+        "areaid": "350700",
+        "areaname": "南平市"
+    },
+    {
+        "aliasname": "NANTONGSHI",
+        "areaid": "320600",
+        "areaname": "南通市"
+    },
+    {
+        "aliasname": "NANYANGSHI",
+        "areaid": "411300",
+        "areaname": "南阳市"
+    },
+    {
+        "aliasname": "NEIJIANGSHI",
+        "areaid": "511000",
+        "areaname": "内江市"
+    },
+    {
+        "aliasname": "NEIQUDIQU",
+        "areaid": "542400",
+        "areaname": "那曲地区"
+    },
+    {
+        "aliasname": "NINGBOSHI",
+        "areaid": "330200",
+        "areaname": "宁波市"
+    },
+    {
+        "aliasname": "NINGDESHI",
+        "areaid": "350900",
+        "areaname": "宁德市"
+    },
+    {
+        "aliasname": "NUJIANGLISUZUZIZHIZHOU",
+        "areaid": "533300",
+        "areaname": "怒江傈僳族自治州"
+    },
+    {
+        "aliasname": "PANJINSHI",
+        "areaid": "211100",
+        "areaname": "盘锦市"
+    },
+    {
+        "aliasname": "PANZHIHUASHI",
+        "areaid": "510400",
+        "areaname": "攀枝花市"
+    },
+    {
+        "aliasname": "PINGDINGSHANSHI",
+        "areaid": "410400",
+        "areaname": "平顶山市"
+    },
+    {
+        "aliasname": "PINGLIANGSHI",
+        "areaid": "620800",
+        "areaname": "平凉市"
+    },
+    {
+        "aliasname": "PINGXIANGSHI",
+        "areaid": "360300",
+        "areaname": "萍乡市"
+    },
+    {
+        "aliasname": "PUTIANSHI",
+        "areaid": "350300",
+        "areaname": "莆田市"
+    },
+    {
+        "aliasname": "PUYANGSHI",
+        "areaid": "410900",
+        "areaname": "濮阳市"
+    },
+    {
+        "aliasname": "QIANDONGNANMIAOZUDONGZUZIZHIZHOU",
+        "areaid": "522600",
+        "areaname": "黔东南苗族侗族自治州"
+    },
+    {
+        "aliasname": "QIANNANBUYIZUMIAOZUZIZHIZHOU",
+        "areaid": "522700",
+        "areaname": "黔南布依族苗族自治州"
+    },
+    {
+        "aliasname": "QIANXINANBUYIZUMIAOZUZIZHIZHOU",
+        "areaid": "522300",
+        "areaname": "黔西南布依族苗族自治州"
+    },
+    {
+        "aliasname": "QINGDAOSHI",
+        "areaid": "370200",
+        "areaname": "青岛市"
+    },
+    {
+        "aliasname": "QINGYANGSHI",
+        "areaid": "621000",
+        "areaname": "庆阳市"
+    },
+    {
+        "aliasname": "QINGYUANSHI",
+        "areaid": "441800",
+        "areaname": "清远市"
+    },
+    {
+        "aliasname": "QINHUANGDAOSHI",
+        "areaid": "130300",
+        "areaname": "秦皇岛市"
+    },
+    {
+        "aliasname": "QINZHOUSHI",
+        "areaid": "450700",
+        "areaname": "钦州市"
+    },
+    {
+        "aliasname": "QIQIHAERSHI",
+        "areaid": "230200",
+        "areaname": "齐齐哈尔市"
+    },
+    {
+        "aliasname": "QITAIHESHI",
+        "areaid": "230900",
+        "areaname": "七台河市"
+    },
+    {
+        "aliasname": "QUANZHOUSHI",
+        "areaid": "350500",
+        "areaname": "泉州市"
+    },
+    {
+        "aliasname": "QUJINGSHI",
+        "areaid": "530300",
+        "areaname": "曲靖市"
+    },
+    {
+        "aliasname": "QUZHOUSHI",
+        "areaid": "330800",
+        "areaname": "衢州市"
+    },
+    {
+        "aliasname": "RIKAZEDIQU",
+        "areaid": "542300",
+        "areaname": "日喀则地区"
+    },
+    {
+        "aliasname": "RIZHAOSHI",
+        "areaid": "371100",
+        "areaname": "日照市"
+    },
+    {
+        "aliasname": "SANMENXIASHI",
+        "areaid": "411200",
+        "areaname": "三门峡市"
+    },
+    {
+        "aliasname": "SANMINGSHI",
+        "areaid": "350400",
+        "areaname": "三明市"
+    },
+    {
+        "aliasname": "SANYASHI",
+        "areaid": "460200",
+        "areaname": "三亚市"
+    },
+    {
+        "aliasname": "SHAMENSHI",
+        "areaid": "350200",
+        "areaname": "厦门市"
+    },
+    {
+        "aliasname": "SHANGHAISHI",
+        "areaid": "310000",
+        "areaname": "上海市"
+    },
+    {
+        "aliasname": "SHANGLUOSHI",
+        "areaid": "611000",
+        "areaname": "商洛市"
+    },
+    {
+        "aliasname": "SHANGQIUSHI",
+        "areaid": "411400",
+        "areaname": "商丘市"
+    },
+    {
+        "aliasname": "SHANGRAOSHI",
+        "areaid": "361100",
+        "areaname": "上饶市"
+    },
+    {
+        "aliasname": "SHANNANDIQU",
+        "areaid": "542200",
+        "areaname": "山南地区"
+    },
+    {
+        "aliasname": "SHANTOUSHI",
+        "areaid": "440500",
+        "areaname": "汕头市"
+    },
+    {
+        "aliasname": "SHANWEISHI",
+        "areaid": "441500",
+        "areaname": "汕尾市"
+    },
+    {
+        "aliasname": "SHAOGUANSHI",
+        "areaid": "440200",
+        "areaname": "韶关市"
+    },
+    {
+        "aliasname": "SHAOXINGSHI",
+        "areaid": "330600",
+        "areaname": "绍兴市"
+    },
+    {
+        "aliasname": "SHAOYANGSHI",
+        "areaid": "430500",
+        "areaname": "邵阳市"
+    },
+    {
+        "aliasname": "SHENYANGSHI",
+        "areaid": "210100",
+        "areaname": "沈阳市"
+    },
+    {
+        "aliasname": "SHENZHENSHI",
+        "areaid": "440300",
+        "areaname": "深圳市"
+    },
+    {
+        "aliasname": "SHIJIAZHUANGSHI",
+        "areaid": "130100",
+        "areaname": "石家庄市"
+    },
+    {
+        "aliasname": "SHIYANSHI",
+        "areaid": "420300",
+        "areaname": "十堰市"
+    },
+    {
+        "aliasname": "SHIZUISHANSHI",
+        "areaid": "640200",
+        "areaname": "石嘴山市"
+    },
+    {
+        "aliasname": "SHUANGYASHANSHI",
+        "areaid": "230500",
+        "areaname": "双鸭山市"
+    },
+    {
+        "aliasname": "SHUOZHOUSHI",
+        "areaid": "140600",
+        "areaname": "朔州市"
+    },
+    {
+        "aliasname": "SIMAOSHI",
+        "areaid": "530800",
+        "areaname": "思茅市"
+    },
+    {
+        "aliasname": "SIPINGSHI",
+        "areaid": "220300",
+        "areaname": "四平市"
+    },
+    {
+        "aliasname": "SONGYUANSHI",
+        "areaid": "220700",
+        "areaname": "松原市"
+    },
+    {
+        "aliasname": "SUIHUASHI",
+        "areaid": "231200",
+        "areaname": "绥化市"
+    },
+    {
+        "aliasname": "SUININGSHI",
+        "areaid": "510900",
+        "areaname": "遂宁市"
+    },
+    {
+        "aliasname": "SUIZHOUSHI",
+        "areaid": "421300",
+        "areaname": "随州市"
+    },
+    {
+        "aliasname": "SUQIANSHI",
+        "areaid": "321300",
+        "areaname": "宿迁市"
+    },
+    {
+        "aliasname": "SUZHOUSHI",
+        "areaid": "320500",
+        "areaname": "苏州市"
+    },
+    {
+        "aliasname": "SUZHOUSHI",
+        "areaid": "341300",
+        "areaname": "宿州市"
+    },
+    {
+        "aliasname": "TACHENGDIQU",
+        "areaid": "654200",
+        "areaname": "塔城地区"
+    },
+    {
+        "aliasname": "TAIANSHI",
+        "areaid": "370900",
+        "areaname": "泰安市"
+    },
+    {
+        "aliasname": "TAIWANSHENG",
+        "areaid": "710000",
+        "areaname": "台湾省"
+    },
+    {
+        "aliasname": "TAIYUANSHI",
+        "areaid": "140100",
+        "areaname": "太原市"
+    },
+    {
+        "aliasname": "TAIZHOUSHI",
+        "areaid": "331000",
+        "areaname": "台州市"
+    },
+    {
+        "aliasname": "TAIZHOUSHI",
+        "areaid": "321200",
+        "areaname": "泰州市"
+    },
+    {
+        "aliasname": "TANGSHANSHI",
+        "areaid": "130200",
+        "areaname": "唐山市"
+    },
+    {
+        "aliasname": "TIANJINSHI",
+        "areaid": "120000",
+        "areaname": "天津市"
+    },
+    {
+        "aliasname": "TIANSHUISHI",
+        "areaid": "620500",
+        "areaname": "天水市"
+    },
+    {
+        "aliasname": "TIELINGSHI",
+        "areaid": "211200",
+        "areaname": "铁岭市"
+    },
+    {
+        "aliasname": "TONGCHUANSHI",
+        "areaid": "610200",
+        "areaname": "铜川市"
+    },
+    {
+        "aliasname": "TONGHUASHI",
+        "areaid": "220500",
+        "areaname": "通化市"
+    },
+    {
+        "aliasname": "TONGLIAOSHI",
+        "areaid": "150500",
+        "areaname": "通辽市"
+    },
+    {
+        "aliasname": "TONGLINGSHI",
+        "areaid": "340700",
+        "areaname": "铜陵市"
+    },
+    {
+        "aliasname": "TONGRENDIQU",
+        "areaid": "522200",
+        "areaname": "铜仁地区"
+    },
+    {
+        "aliasname": "WEIFANGSHI",
+        "areaid": "370700",
+        "areaname": "潍坊市"
+    },
+    {
+        "aliasname": "WEIHAISHI",
+        "areaid": "371000",
+        "areaname": "威海市"
+    },
+    {
+        "aliasname": "WEINANSHI",
+        "areaid": "610500",
+        "areaname": "渭南市"
+    },
+    {
+        "aliasname": "WENSHANZHUANGZUMIAOZUZIZHIZHOU",
+        "areaid": "532600",
+        "areaname": "文山壮族苗族自治州"
+    },
+    {
+        "aliasname": "WENZHOUSHI",
+        "areaid": "330300",
+        "areaname": "温州市"
+    },
+    {
+        "aliasname": "WUHAISHI",
+        "areaid": "150300",
+        "areaname": "乌海市"
+    },
+    {
+        "aliasname": "WUHANSHI",
+        "areaid": "420100",
+        "areaname": "武汉市"
+    },
+    {
+        "aliasname": "WUHUSHI",
+        "areaid": "340200",
+        "areaname": "芜湖市"
+    },
+    {
+        "aliasname": "WULANCHABUMENG",
+        "areaid": "152600",
+        "areaname": "乌兰察布盟"
+    },
+    {
+        "aliasname": "WULANCHABUSHI",
+        "areaid": "150900",
+        "areaname": "乌兰察布市"
+    },
+    {
+        "aliasname": "WULUMUQISHI",
+        "areaid": "650100",
+        "areaname": "乌鲁木齐市"
+    },
+    {
+        "aliasname": "WUWEISHI",
+        "areaid": "620600",
+        "areaname": "武威市"
+    },
+    {
+        "aliasname": "WUXISHI",
+        "areaid": "320200",
+        "areaname": "无锡市"
+    },
+    {
+        "aliasname": "WUZHONGSHI",
+        "areaid": "640300",
+        "areaname": "吴忠市"
+    },
+    {
+        "aliasname": "WUZHOUSHI",
+        "areaid": "450400",
+        "areaname": "梧州市"
+    },
+    {
+        "aliasname": "XIANGFANSHI",
+        "areaid": "420600",
+        "areaname": "襄樊市"
+    },
+    {
+        "aliasname": "XIANGGANGTEBIEXINGZHENGQU",
+        "areaid": "810000",
+        "areaname": "香港特别行政区"
+    },
+    {
+        "aliasname": "XIANGTANSHI",
+        "areaid": "430300",
+        "areaname": "湘潭市"
+    },
+    {
+        "aliasname": "XIANGXITUJIAZUMIAOZUZIZHIZHOU",
+        "areaid": "433100",
+        "areaname": "湘西土家族苗族自治州"
+    },
+    {
+        "aliasname": "XIANNINGSHI",
+        "areaid": "421200",
+        "areaname": "咸宁市"
+    },
+    {
+        "aliasname": "XIANSHI",
+        "areaid": "610100",
+        "areaname": "西安市"
+    },
+    {
+        "aliasname": "XIANYANGSHI",
+        "areaid": "610400",
+        "areaname": "咸阳市"
+    },
+    {
+        "aliasname": "XIAOGANSHI",
+        "areaid": "420900",
+        "areaname": "孝感市"
+    },
+    {
+        "aliasname": "XILINGUOLEMENG",
+        "areaid": "152500",
+        "areaname": "锡林郭勒盟"
+    },
+    {
+        "aliasname": "XINGANMENG",
+        "areaid": "152200",
+        "areaname": "兴安盟"
+    },
+    {
+        "aliasname": "XINGTAISHI",
+        "areaid": "130500",
+        "areaname": "邢台市"
+    },
+    {
+        "aliasname": "XININGSHI",
+        "areaid": "630100",
+        "areaname": "西宁市"
+    },
+    {
+        "aliasname": "XINXIANGSHI",
+        "areaid": "410700",
+        "areaname": "新乡市"
+    },
+    {
+        "aliasname": "XINYANGSHI",
+        "areaid": "411500",
+        "areaname": "信阳市"
+    },
+    {
+        "aliasname": "XINYUSHI",
+        "areaid": "360500",
+        "areaname": "新余市"
+    },
+    {
+        "aliasname": "XINZHOUSHI",
+        "areaid": "140900",
+        "areaname": "忻州市"
+    },
+    {
+        "aliasname": "XISHUANGBANNADAIZUZIZHIZHOU",
+        "areaid": "532800",
+        "areaname": "西双版纳傣族自治州"
+    },
+    {
+        "aliasname": "XUANCHENGSHI",
+        "areaid": "341800",
+        "areaname": "宣城市"
+    },
+    {
+        "aliasname": "XUCHANGSHI",
+        "areaid": "411000",
+        "areaname": "许昌市"
+    },
+    {
+        "aliasname": "XUZHOUSHI",
+        "areaid": "320300",
+        "areaname": "徐州市"
+    },
+    {
+        "aliasname": "YAANSHI",
+        "areaid": "511800",
+        "areaname": "雅安市"
+    },
+    {
+        "aliasname": "YANANSHI",
+        "areaid": "610600",
+        "areaname": "延安市"
+    },
+    {
+        "aliasname": "YANBIANCHAOXIANZUZIZHIZHOU",
+        "areaid": "222400",
+        "areaname": "延边朝鲜族自治州"
+    },
+    {
+        "aliasname": "YANCHENGSHI",
+        "areaid": "320900",
+        "areaname": "盐城市"
+    },
+    {
+        "aliasname": "YANGJIANGSHI",
+        "areaid": "441700",
+        "areaname": "阳江市"
+    },
+    {
+        "aliasname": "YANGQUANSHI",
+        "areaid": "140300",
+        "areaname": "阳泉市"
+    },
+    {
+        "aliasname": "YANGZHOUSHI",
+        "areaid": "321000",
+        "areaname": "扬州市"
+    },
+    {
+        "aliasname": "YANTAISHI",
+        "areaid": "370600",
+        "areaname": "烟台市"
+    },
+    {
+        "aliasname": "YIBINSHI",
+        "areaid": "511500",
+        "areaname": "宜宾市"
+    },
+    {
+        "aliasname": "YICHANGSHI",
+        "areaid": "420500",
+        "areaname": "宜昌市"
+    },
+    {
+        "aliasname": "YICHUNSHI",
+        "areaid": "230700",
+        "areaname": "伊春市"
+    },
+    {
+        "aliasname": "YICHUNSHI",
+        "areaid": "360900",
+        "areaname": "宜春市"
+    },
+    {
+        "aliasname": "YILIHASAKEZIZHIZHOU",
+        "areaid": "654000",
+        "areaname": "伊犁哈萨克自治州"
+    },
+    {
+        "aliasname": "YINCHUANSHI",
+        "areaid": "640100",
+        "areaname": "银川市"
+    },
+    {
+        "aliasname": "YINGKOUSHI",
+        "areaid": "210800",
+        "areaname": "营口市"
+    },
+    {
+        "aliasname": "YINGTANSHI",
+        "areaid": "360600",
+        "areaname": "鹰潭市"
+    },
+    {
+        "aliasname": "YIYANGSHI",
+        "areaid": "430900",
+        "areaname": "益阳市"
+    },
+    {
+        "aliasname": "YONGZHOUSHI",
+        "areaid": "431100",
+        "areaname": "永州市"
+    },
+    {
+        "aliasname": "YUEYANGSHI",
+        "areaid": "430600",
+        "areaname": "岳阳市"
+    },
+    {
+        "aliasname": "YULINSHI",
+        "areaid": "610800",
+        "areaname": "榆林市"
+    },
+    {
+        "aliasname": "YULINSHI",
+        "areaid": "450900",
+        "areaname": "玉林市"
+    },
+    {
+        "aliasname": "YUNCHENGSHI",
+        "areaid": "140800",
+        "areaname": "运城市"
+    },
+    {
+        "aliasname": "YUNFUSHI",
+        "areaid": "445300",
+        "areaname": "云浮市"
+    },
+    {
+        "aliasname": "YUSHUZANGZUZIZHIZHOU",
+        "areaid": "632700",
+        "areaname": "玉树藏族自治州"
+    },
+    {
+        "aliasname": "YUXISHI",
+        "areaid": "530400",
+        "areaname": "玉溪市"
+    },
+    {
+        "aliasname": "ZAOZHUANGSHI",
+        "areaid": "370400",
+        "areaname": "枣庄市"
+    },
+    {
+        "aliasname": "ZHANGCHUNSHI",
+        "areaid": "220100",
+        "areaname": "长春市"
+    },
+    {
+        "aliasname": "ZHANGJIAJIESHI",
+        "areaid": "430800",
+        "areaname": "张家界市"
+    },
+    {
+        "aliasname": "ZHANGJIAKOUSHI",
+        "areaid": "130700",
+        "areaname": "张家口市"
+    },
+    {
+        "aliasname": "ZHANGSHASHI",
+        "areaid": "430100",
+        "areaname": "长沙市"
+    },
+    {
+        "aliasname": "ZHANGYESHI",
+        "areaid": "620700",
+        "areaname": "张掖市"
+    },
+    {
+        "aliasname": "ZHANGZHISHI",
+        "areaid": "140400",
+        "areaname": "长治市"
+    },
+    {
+        "aliasname": "ZHANGZHOUSHI",
+        "areaid": "350600",
+        "areaname": "漳州市"
+    },
+    {
+        "aliasname": "ZHANJIANGSHI",
+        "areaid": "440800",
+        "areaname": "湛江市"
+    },
+    {
+        "aliasname": "ZHAOQINGSHI",
+        "areaid": "441200",
+        "areaname": "肇庆市"
+    },
+    {
+        "aliasname": "ZHAOTONGSHI",
+        "areaid": "530600",
+        "areaname": "昭通市"
+    },
+    {
+        "aliasname": "ZHENGZHOUSHI",
+        "areaid": "410100",
+        "areaname": "郑州市"
+    },
+    {
+        "aliasname": "ZHENJIANGSHI",
+        "areaid": "321100",
+        "areaname": "镇江市"
+    },
+    {
+        "aliasname": "ZHONGQINGSHI",
+        "areaid": "500000",
+        "areaname": "重庆市"
+    },
+    {
+        "aliasname": "ZHONGSHANSHI",
+        "areaid": "442000",
+        "areaname": "中山市"
+    },
+    {
+        "aliasname": "ZHONGWEISHI",
+        "areaid": "640500",
+        "areaname": "中卫市"
+    },
+    {
+        "aliasname": "ZHOUKOUSHI",
+        "areaid": "411600",
+        "areaname": "周口市"
+    },
+    {
+        "aliasname": "ZHOUSHANSHI",
+        "areaid": "330900",
+        "areaname": "舟山市"
+    },
+    {
+        "aliasname": "ZHUHAISHI",
+        "areaid": "440400",
+        "areaname": "珠海市"
+    },
+    {
+        "aliasname": "ZHUMADIANSHI",
+        "areaid": "411700",
+        "areaname": "驻马店市"
+    },
+    {
+        "aliasname": "ZHUZHOUSHI",
+        "areaid": "430200",
+        "areaname": "株洲市"
+    },
+    {
+        "aliasname": "ZIBOSHI",
+        "areaid": "370300",
+        "areaname": "淄博市"
+    },
+    {
+        "aliasname": "ZIGONGSHI",
+        "areaid": "510300",
+        "areaname": "自贡市"
+    },
+    {
+        "aliasname": "ZIYANGSHI",
+        "areaid": "512000",
+        "areaname": "资阳市"
+    },
+    {
+        "aliasname": "ZUNYISHI",
+        "areaid": "520300",
+        "areaname": "遵义市"
+    }
+]

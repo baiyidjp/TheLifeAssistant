@@ -25,7 +25,7 @@
 
 - (void)configView{
     
-    WeatherView *weatherView = [WeatherView getWeatherViewWithFrame:CGRectMake(0, NAVHEIGHT, KWIDTH, KHEIGHT)];
+    WeatherView *weatherView = [WeatherView getWeatherViewWithFrame:CGRectMake(0, NAVHEIGHT, KWIDTH, 191.5) controller:self];
     [self.view addSubview:weatherView];
     
 }

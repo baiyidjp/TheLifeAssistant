@@ -10,6 +10,12 @@
 
 @interface WeatherView : UIView
 
-+ (WeatherView *)getWeatherViewWithFrame:(CGRect)frame;
+/**
+ *  @param frame      view的frame
+ *  @param controller 当前的控制器
+ *
+ *  @return WeatherView
+ */
++ (WeatherView *)getWeatherViewWithFrame:(CGRect)frame controller:(UIViewController *)controller;
 
 @end
