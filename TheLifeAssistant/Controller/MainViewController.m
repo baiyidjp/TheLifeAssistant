@@ -13,6 +13,7 @@
 #import "PhoneNumController.h"
 #import "WeiXinViewController.h"
 #import "WeatherController.h"
+#import "QQViewController.h"
 
 @interface MainViewController ()
 
@@ -78,7 +79,7 @@
             nextCtrl = [[WeiXinViewController alloc]init];
             break;
         case 6://QQ测吉凶
-            [self.view makeToast:@"......"];
+            nextCtrl = [[QQViewController alloc]init];
             break;
         case 7://历史上的今天
             [self.view makeToast:@"......"];

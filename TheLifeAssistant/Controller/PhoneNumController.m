@@ -37,7 +37,7 @@ static CGFloat kTextSize = 15;
 - (void)configView{
     
     self.phoneText = [[UITextField alloc]init];
-    _phoneText.delegate = self;
+    self.phoneText.delegate = self;
     [self.view addSubview:self.phoneText];
     [self.phoneText mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.equalTo(self.view).with.offset(KMARGIN);

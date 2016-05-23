@@ -92,6 +92,7 @@
 		A2419F071CE08C9B004FBEC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2419F051CE08C9B004FBEC0 /* LaunchScreen.storyboard */; };
 		A2419F121CE08C9B004FBEC0 /* TheLifeAssistantTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F111CE08C9B004FBEC0 /* TheLifeAssistantTests.m */; };
 		A2419F1D1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F1C1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m */; };
+		A28C4C861CF2985900459AC0 /* QQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C851CF2985900459AC0 /* QQViewController.m */; };
 		A2D2E5221CEEF6FC00F064B0 /* ChooseCityView.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D2E5211CEEF6FC00F064B0 /* ChooseCityView.m */; };
 		A2D2E5261CEEF78E00F064B0 /* CBAutoScrollLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D2E5251CEEF78E00F064B0 /* CBAutoScrollLabel.m */; };
 		A2D2E5701CEEF86A00F064B0 /* day0.png in Resources */ = {isa = PBXBuildFile; fileRef = A2D2E5291CEEF86A00F064B0 /* day0.png */; };
@@ -371,6 +372,8 @@
 		A2419F181CE08C9B004FBEC0 /* TheLifeAssistantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheLifeAssistantUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2419F1C1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheLifeAssistantUITests.m; sourceTree = "<group>"; };
 		A2419F1E1CE08C9B004FBEC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A28C4C841CF2985800459AC0 /* QQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QQViewController.h; sourceTree = "<group>"; };
+		A28C4C851CF2985900459AC0 /* QQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QQViewController.m; sourceTree = "<group>"; };
 		A2D2E5201CEEF6FC00F064B0 /* ChooseCityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseCityView.h; sourceTree = "<group>"; };
 		A2D2E5211CEEF6FC00F064B0 /* ChooseCityView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseCityView.m; sourceTree = "<group>"; };
 		A2D2E5241CEEF78E00F064B0 /* CBAutoScrollLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBAutoScrollLabel.h; sourceTree = "<group>"; };
@@ -565,6 +568,8 @@
 				F5CFBE1E1CE22C6A0004BDB8 /* WeiXinViewController.m */,
 				A225ED601CE2DAF900171799 /* WeatherController.h */,
 				A225ED611CE2DAF900171799 /* WeatherController.m */,
+				A28C4C841CF2985800459AC0 /* QQViewController.h */,
+				A28C4C851CF2985900459AC0 /* QQViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -1294,6 +1299,7 @@
 				A225ED621CE2DAF900171799 /* WeatherController.m in Sources */,
 				F5CFBE621CE237550004BDB8 /* MJRefreshNormalHeader.m in Sources */,
 				F5CFBE5D1CE237550004BDB8 /* MJRefreshAutoStateFooter.m in Sources */,
+				A28C4C861CF2985900459AC0 /* QQViewController.m in Sources */,
 				A216F7751CE1BC7D009F5821 /* MJFoundation.m in Sources */,
 				A216F7891CE1BC7D009F5821 /* UIImage+MultiFormat.m in Sources */,
 				F5CFBE5B1CE237550004BDB8 /* MJRefreshAutoGifFooter.m in Sources */,
