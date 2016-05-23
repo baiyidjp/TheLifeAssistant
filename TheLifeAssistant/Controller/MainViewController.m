@@ -14,6 +14,7 @@
 #import "WeiXinViewController.h"
 #import "WeatherController.h"
 #import "QQViewController.h"
+#import "JokeViewController.h"
 
 @interface MainViewController ()
 
@@ -73,7 +74,7 @@
             [self.view makeToast:@"......"];
             break;
         case 4://笑话大全
-            [self.view makeToast:@"......"];
+            nextCtrl = [[JokeViewController alloc]init];
             break;
         case 5://微信精选
             nextCtrl = [[WeiXinViewController alloc]init];

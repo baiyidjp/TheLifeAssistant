@@ -93,6 +93,10 @@
 		A2419F121CE08C9B004FBEC0 /* TheLifeAssistantTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F111CE08C9B004FBEC0 /* TheLifeAssistantTests.m */; };
 		A2419F1D1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F1C1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m */; };
 		A28C4C861CF2985900459AC0 /* QQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C851CF2985900459AC0 /* QQViewController.m */; };
+		A28C4C891CF2D1A700459AC0 /* JokeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C881CF2D1A700459AC0 /* JokeViewController.m */; };
+		A28C4C8C1CF2D1BA00459AC0 /* JokeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C8B1CF2D1BA00459AC0 /* JokeModel.m */; };
+		A28C4C8F1CF2D1C700459AC0 /* JokeModelFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C8E1CF2D1C700459AC0 /* JokeModelFrame.m */; };
+		A28C4C921CF2D42400459AC0 /* JokeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C911CF2D42400459AC0 /* JokeTableViewCell.m */; };
 		A2D2E5221CEEF6FC00F064B0 /* ChooseCityView.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D2E5211CEEF6FC00F064B0 /* ChooseCityView.m */; };
 		A2D2E5261CEEF78E00F064B0 /* CBAutoScrollLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D2E5251CEEF78E00F064B0 /* CBAutoScrollLabel.m */; };
 		A2D2E5701CEEF86A00F064B0 /* day0.png in Resources */ = {isa = PBXBuildFile; fileRef = A2D2E5291CEEF86A00F064B0 /* day0.png */; };
@@ -374,6 +378,14 @@
 		A2419F1E1CE08C9B004FBEC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A28C4C841CF2985800459AC0 /* QQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QQViewController.h; sourceTree = "<group>"; };
 		A28C4C851CF2985900459AC0 /* QQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QQViewController.m; sourceTree = "<group>"; };
+		A28C4C871CF2D1A700459AC0 /* JokeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JokeViewController.h; sourceTree = "<group>"; };
+		A28C4C881CF2D1A700459AC0 /* JokeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JokeViewController.m; sourceTree = "<group>"; };
+		A28C4C8A1CF2D1BA00459AC0 /* JokeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JokeModel.h; sourceTree = "<group>"; };
+		A28C4C8B1CF2D1BA00459AC0 /* JokeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JokeModel.m; sourceTree = "<group>"; };
+		A28C4C8D1CF2D1C700459AC0 /* JokeModelFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JokeModelFrame.h; sourceTree = "<group>"; };
+		A28C4C8E1CF2D1C700459AC0 /* JokeModelFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JokeModelFrame.m; sourceTree = "<group>"; };
+		A28C4C901CF2D42400459AC0 /* JokeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JokeTableViewCell.h; sourceTree = "<group>"; };
+		A28C4C911CF2D42400459AC0 /* JokeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JokeTableViewCell.m; sourceTree = "<group>"; };
 		A2D2E5201CEEF6FC00F064B0 /* ChooseCityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooseCityView.h; sourceTree = "<group>"; };
 		A2D2E5211CEEF6FC00F064B0 /* ChooseCityView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseCityView.m; sourceTree = "<group>"; };
 		A2D2E5241CEEF78E00F064B0 /* CBAutoScrollLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBAutoScrollLabel.h; sourceTree = "<group>"; };
@@ -570,6 +582,8 @@
 				A225ED611CE2DAF900171799 /* WeatherController.m */,
 				A28C4C841CF2985800459AC0 /* QQViewController.h */,
 				A28C4C851CF2985900459AC0 /* QQViewController.m */,
+				A28C4C871CF2D1A700459AC0 /* JokeViewController.h */,
+				A28C4C881CF2D1A700459AC0 /* JokeViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -616,6 +630,10 @@
 				F5CFBE271CE22F160004BDB8 /* WeiXinModelFrame.m */,
 				F5CFBE201CE22C7B0004BDB8 /* WeiXinModel.h */,
 				F5CFBE211CE22C7B0004BDB8 /* WeiXinModel.m */,
+				A28C4C8A1CF2D1BA00459AC0 /* JokeModel.h */,
+				A28C4C8B1CF2D1BA00459AC0 /* JokeModel.m */,
+				A28C4C8D1CF2D1C700459AC0 /* JokeModelFrame.h */,
+				A28C4C8E1CF2D1C700459AC0 /* JokeModelFrame.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -948,6 +966,8 @@
 				F5CD72491CE37A0C0057B115 /* WeatherView.m */,
 				F5CD72451CE379EE0057B115 /* WeiXinTableViewCell.h */,
 				F5CD72461CE379EE0057B115 /* WeiXinTableViewCell.m */,
+				A28C4C901CF2D42400459AC0 /* JokeTableViewCell.h */,
+				A28C4C911CF2D42400459AC0 /* JokeTableViewCell.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -1293,6 +1313,7 @@
 				F5CFBE5C1CE237550004BDB8 /* MJRefreshAutoNormalFooter.m in Sources */,
 				F5CFBE561CE237550004BDB8 /* MJRefreshAutoFooter.m in Sources */,
 				A216F7D61CE1D06B009F5821 /* View+MASAdditions.m in Sources */,
+				A28C4C8F1CF2D1C700459AC0 /* JokeModelFrame.m in Sources */,
 				A216F77E1CE1BC7D009F5821 /* MKAnnotationView+WebCache.m in Sources */,
 				F5CFBE5F1CE237550004BDB8 /* MJRefreshBackNormalFooter.m in Sources */,
 				A216F7D11CE1D06B009F5821 /* MASLayoutConstraint.m in Sources */,
@@ -1302,6 +1323,8 @@
 				A28C4C861CF2985900459AC0 /* QQViewController.m in Sources */,
 				A216F7751CE1BC7D009F5821 /* MJFoundation.m in Sources */,
 				A216F7891CE1BC7D009F5821 /* UIImage+MultiFormat.m in Sources */,
+				A28C4C921CF2D42400459AC0 /* JokeTableViewCell.m in Sources */,
+				A28C4C891CF2D1A700459AC0 /* JokeViewController.m in Sources */,
 				F5CFBE5B1CE237550004BDB8 /* MJRefreshAutoGifFooter.m in Sources */,
 				A216F7D01CE1D06B009F5821 /* MASConstraintMaker.m in Sources */,
 				A216F77B1CE1BC7D009F5821 /* NSObject+MJKeyValue.m in Sources */,
@@ -1311,6 +1334,7 @@
 				A2419EF91CE08C9B004FBEC0 /* main.m in Sources */,
 				F5CFBE651CE237550004BDB8 /* MJRefreshConst.m in Sources */,
 				F5CFBE681CE237550004BDB8 /* UIView+MJExtension.m in Sources */,
+				A28C4C8C1CF2D1BA00459AC0 /* JokeModel.m in Sources */,
 				A2D2E5221CEEF6FC00F064B0 /* ChooseCityView.m in Sources */,
 				A216F7A91CE1C42E009F5821 /* AFURLRequestSerialization.m in Sources */,
 				F5CD72471CE379EE0057B115 /* WeiXinTableViewCell.m in Sources */,
