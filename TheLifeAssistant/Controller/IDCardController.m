@@ -21,6 +21,9 @@ static CGFloat kTextSize = 15;
 @property(nonatomic,strong)UILabel *sexLabel;
 @property(nonatomic,strong)UILabel *brithdayLabel;
 @property(nonatomic,strong)UILabel *errerLabel;
+@property(nonatomic,strong)UILabel *label_1;
+@property(nonatomic,strong)UILabel *label_2;
+@property(nonatomic,strong)UILabel *label_3;
 
 @end
 
@@ -70,102 +73,78 @@ static CGFloat kTextSize = 15;
     [button.layer setCornerRadius:5];
     [button addTarget:self action:@selector(clickBtn) forControlEvents:UIControlEventTouchUpInside];
     
-    UILabel *label_1 = [[UILabel alloc]init];//
-    [self.view addSubview:label_1];
-    [label_1 mas_makeConstraints:^(MASConstraintMaker *make) {
+    self.label_1 = [[UILabel alloc]init];//
+    [self.view addSubview:self.label_1];
+    [self.label_1 mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.equalTo(self.view).with.offset(KMARGIN);
         make.top.equalTo(button.mas_bottom).with.offset(KMARGIN);
         make.width.equalTo(@50);
         make.height.equalTo(@30);
     }];
-    label_1.text = @"地址:";
-    label_1.textAlignment = NSTextAlignmentCenter;
-    label_1.font = FONTSIZE(kTextSize);
+    self.label_1.text = @"地址:";
+    self.label_1.textAlignment = NSTextAlignmentCenter;
+    self.label_1.font = FONTSIZE(kTextSize);
     
-    UILabel *label_2 = [[UILabel alloc]init];//
-    [self.view addSubview:label_2];
-    [label_2 mas_makeConstraints:^(MASConstraintMaker *make) {
+    self.label_2 = [[UILabel alloc]init];//
+    [self.view addSubview:self.label_2];
+    [self.label_2 mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.equalTo(self.view).with.offset(KMARGIN);
-        make.top.equalTo(label_1.mas_bottom);
-        make.width.equalTo(label_1.mas_width);
-        make.height.equalTo(label_1.mas_height);
+        make.top.equalTo(self.label_1.mas_bottom);
+        make.width.equalTo(self.label_1.mas_width);
+        make.height.equalTo(self.label_1.mas_height);
     }];
-    label_2.text = @"性别:";
-    label_2.textAlignment = NSTextAlignmentCenter;
-    label_2.font = FONTSIZE(kTextSize);
+    self.label_2.text = @"性别:";
+    self.label_2.textAlignment = NSTextAlignmentCenter;
+    self.label_2.font = FONTSIZE(kTextSize);
     
-    UILabel *label_3 = [[UILabel alloc]init];//
-    [self.view addSubview:label_3];
-    [label_3 mas_makeConstraints:^(MASConstraintMaker *make) {
+    self.label_3 = [[UILabel alloc]init];//
+    [self.view addSubview:self.label_3];
+    [self.label_3 mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.equalTo(self.view).with.offset(KMARGIN);
-        make.top.equalTo(label_2.mas_bottom);
-        make.width.equalTo(label_1.mas_width);
-        make.height.equalTo(label_1.mas_height);
+        make.top.equalTo(self.label_2.mas_bottom);
+        make.width.equalTo(self.label_1.mas_width);
+        make.height.equalTo(self.label_1.mas_height);
     }];
-    label_3.text = @"生日:";
-    label_3.textAlignment = NSTextAlignmentCenter;
-    label_3.font = FONTSIZE(kTextSize);
-    
-    UILabel *label_4 = [[UILabel alloc]init];//
-    [self.view addSubview:label_4];
-    [label_4 mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.equalTo(self.view).with.offset(KMARGIN);
-        make.top.equalTo(label_3.mas_bottom);
-        make.width.equalTo(label_1.mas_width);
-        make.height.equalTo(label_1.mas_height);
-    }];
-    label_4.text = @"错误:";
-    label_4.textAlignment = NSTextAlignmentCenter;
-    label_4.font = FONTSIZE(kTextSize);
+    self.label_3.text = @"生日:";
+    self.label_3.textAlignment = NSTextAlignmentCenter;
+    self.label_3.font = FONTSIZE(kTextSize);
     
     self.addressLabel = [[UILabel alloc]init];
     [self.view addSubview:self.addressLabel];
     [self.addressLabel mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.equalTo(label_1.mas_right).with.offset(KMARGIN/2);
+        make.left.equalTo(self.label_1.mas_right).with.offset(KMARGIN/2);
         make.right.offset(-KMARGIN);
-        make.top.equalTo(label_1.mas_top);
-        make.height.equalTo(label_1.mas_height);
+        make.top.equalTo(self.label_1.mas_top);
+        make.height.equalTo(self.label_1.mas_height);
     }];
     self.addressLabel.font = FONTSIZE(15);
     
     self.sexLabel = [[UILabel alloc]init];
     [self.view addSubview:self.sexLabel];
     [self.sexLabel mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.equalTo(label_1.mas_right).with.offset(KMARGIN/2);
+        make.left.equalTo(self.label_1.mas_right).with.offset(KMARGIN/2);
         make.right.offset(-KMARGIN);
-        make.top.equalTo(label_2.mas_top);
-        make.height.equalTo(label_1.mas_height);
+        make.top.equalTo(self.label_2.mas_top);
+        make.height.equalTo(self.label_1.mas_height);
     }];
     self.sexLabel.font = FONTSIZE(15);
     
     self.brithdayLabel = [[UILabel alloc]init];
     [self.view addSubview:self.brithdayLabel];
     [self.brithdayLabel mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.equalTo(label_1.mas_right).with.offset(KMARGIN/2);
+        make.left.equalTo(self.label_1.mas_right).with.offset(KMARGIN/2);
         make.right.offset(-KMARGIN);
-        make.top.equalTo(label_3.mas_top);
-        make.height.equalTo(label_1.mas_height);
+        make.top.equalTo(self.label_3.mas_top);
+        make.height.equalTo(self.label_1.mas_height);
     }];
     self.brithdayLabel.font = FONTSIZE(15);
     
-    self.errerLabel = [[UILabel alloc]init];
-    [self.view addSubview:self.errerLabel];
-    [self.errerLabel mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.equalTo(label_1.mas_right).with.offset(KMARGIN/2);
-        make.right.offset(-KMARGIN);
-        make.top.equalTo(label_4.mas_top);
-        make.height.equalTo(label_1.mas_height);
-    }];
-    self.errerLabel.font = FONTSIZE(15);
-
+    [self setViewHiddenWith:YES];
 }
 
 - (void)clickBtn{
     
-    self.addressLabel.text = @"";
-    self.sexLabel.text = @"";
-    self.brithdayLabel.text = @"";
-    self.errerLabel.text = @"";
+    [self setViewHiddenWith:YES];
     MBPROGRESSHUD_SHOWLOADINGWITH(self.view);
     
     NSMutableDictionary *params = [NSMutableDictionary dictionary];
@@ -181,14 +160,25 @@ static CGFloat kTextSize = 15;
             self.addressLabel.text = [result objectForKey:@"area"];
             self.sexLabel.text = [result objectForKey:@"sex"];
             self.brithdayLabel.text = [result objectForKey:@"birthday"];
+            [self setViewHiddenWith:NO];
         }else{
-            self.errerLabel.text = [successData objectForKey:@"reason"];
+            [self.view makeToast:[successData objectForKey:@"reason"]];
         }
     } filed:^(NSError *error) {
         NSLog(@"errer---%@",error);
         MBPROGRESSHUD_HIDELOADINGWITH(self.view);
         MBPROGRESSHUD_TIMEOUT;
     }];
+}
+
+- (void)setViewHiddenWith:(BOOL)hidden{
+    
+    self.addressLabel.hidden =hidden;
+    self.sexLabel.hidden = hidden;
+    self.brithdayLabel.hidden = hidden;
+    self.label_1.hidden = hidden;
+    self.label_2.hidden = hidden;
+    self.label_3.hidden = hidden;
 }
 
 #pragma textFieldDelegate

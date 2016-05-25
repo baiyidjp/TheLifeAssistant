@@ -92,6 +92,13 @@
 		A2419F071CE08C9B004FBEC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2419F051CE08C9B004FBEC0 /* LaunchScreen.storyboard */; };
 		A2419F121CE08C9B004FBEC0 /* TheLifeAssistantTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F111CE08C9B004FBEC0 /* TheLifeAssistantTests.m */; };
 		A2419F1D1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2419F1C1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m */; };
+		A26CCCD21CF58D8300C77692 /* ListView.m in Sources */ = {isa = PBXBuildFile; fileRef = A26CCCD11CF58D8300C77692 /* ListView.m */; };
+		A26CCCD51CF5953F00C77692 /* kuang@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A26CCCD31CF5953F00C77692 /* kuang@2x.png */; };
+		A26CCCD61CF5953F00C77692 /* kuang@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A26CCCD41CF5953F00C77692 /* kuang@3x.png */; };
+		A26CCCDA1CF59E8D00C77692 /* TodayView.m in Sources */ = {isa = PBXBuildFile; fileRef = A26CCCD91CF59E8D00C77692 /* TodayView.m */; };
+		A26CCCDD1CF59E9600C77692 /* WeekView.m in Sources */ = {isa = PBXBuildFile; fileRef = A26CCCDC1CF59E9600C77692 /* WeekView.m */; };
+		A26CCCE01CF59E9D00C77692 /* MonthView.m in Sources */ = {isa = PBXBuildFile; fileRef = A26CCCDF1CF59E9D00C77692 /* MonthView.m */; };
+		A26CCCE31CF59EA400C77692 /* YearView.m in Sources */ = {isa = PBXBuildFile; fileRef = A26CCCE21CF59EA400C77692 /* YearView.m */; };
 		A28C4C861CF2985900459AC0 /* QQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C851CF2985900459AC0 /* QQViewController.m */; };
 		A28C4C891CF2D1A700459AC0 /* JokeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C881CF2D1A700459AC0 /* JokeViewController.m */; };
 		A28C4C8C1CF2D1BA00459AC0 /* JokeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A28C4C8B1CF2D1BA00459AC0 /* JokeModel.m */; };
@@ -376,6 +383,18 @@
 		A2419F181CE08C9B004FBEC0 /* TheLifeAssistantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheLifeAssistantUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2419F1C1CE08C9B004FBEC0 /* TheLifeAssistantUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheLifeAssistantUITests.m; sourceTree = "<group>"; };
 		A2419F1E1CE08C9B004FBEC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A26CCCD01CF58D8300C77692 /* ListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListView.h; sourceTree = "<group>"; };
+		A26CCCD11CF58D8300C77692 /* ListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListView.m; sourceTree = "<group>"; };
+		A26CCCD31CF5953F00C77692 /* kuang@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kuang@2x.png"; sourceTree = "<group>"; };
+		A26CCCD41CF5953F00C77692 /* kuang@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kuang@3x.png"; sourceTree = "<group>"; };
+		A26CCCD81CF59E8D00C77692 /* TodayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TodayView.h; sourceTree = "<group>"; };
+		A26CCCD91CF59E8D00C77692 /* TodayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TodayView.m; sourceTree = "<group>"; };
+		A26CCCDB1CF59E9600C77692 /* WeekView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeekView.h; sourceTree = "<group>"; };
+		A26CCCDC1CF59E9600C77692 /* WeekView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeekView.m; sourceTree = "<group>"; };
+		A26CCCDE1CF59E9D00C77692 /* MonthView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MonthView.h; sourceTree = "<group>"; };
+		A26CCCDF1CF59E9D00C77692 /* MonthView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MonthView.m; sourceTree = "<group>"; };
+		A26CCCE11CF59EA400C77692 /* YearView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YearView.h; sourceTree = "<group>"; };
+		A26CCCE21CF59EA400C77692 /* YearView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YearView.m; sourceTree = "<group>"; };
 		A28C4C841CF2985800459AC0 /* QQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QQViewController.h; sourceTree = "<group>"; };
 		A28C4C851CF2985900459AC0 /* QQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QQViewController.m; sourceTree = "<group>"; };
 		A28C4C871CF2D1A700459AC0 /* JokeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JokeViewController.h; sourceTree = "<group>"; };
@@ -594,6 +613,8 @@
 				A2D2E5271CEEF86A00F064B0 /* 天气 */,
 				F5CD724B1CE37AD60057B115 /* dingwei@2x.png */,
 				F5CD724C1CE37AD60057B115 /* dingwei@3x.png */,
+				A26CCCD31CF5953F00C77692 /* kuang@2x.png */,
+				A26CCCD41CF5953F00C77692 /* kuang@3x.png */,
 				F5CD724D1CE37AD60057B115 /* faxian_ditu@2x.png */,
 				F5CD724E1CE37AD60057B115 /* faxian_ditu@3x.png */,
 				A216F7311CE1B566009F5821 /* yingshijiansuo.png */,
@@ -641,6 +662,8 @@
 		A216F7071CE1B326009F5821 /* Public */ = {
 			isa = PBXGroup;
 			children = (
+				A26CCCD01CF58D8300C77692 /* ListView.h */,
+				A26CCCD11CF58D8300C77692 /* ListView.m */,
 				A216F78E1CE1BC9E009F5821 /* Header.h */,
 				F5CFBE691CE23B870004BDB8 /* RequestFiledView.h */,
 				F5CFBE6A1CE23B870004BDB8 /* RequestFiledView.m */,
@@ -854,6 +877,21 @@
 			path = TheLifeAssistantUITests;
 			sourceTree = "<group>";
 		};
+		A26CCCD71CF59E7D00C77692 /* ConstellationViews */ = {
+			isa = PBXGroup;
+			children = (
+				A26CCCD81CF59E8D00C77692 /* TodayView.h */,
+				A26CCCD91CF59E8D00C77692 /* TodayView.m */,
+				A26CCCDB1CF59E9600C77692 /* WeekView.h */,
+				A26CCCDC1CF59E9600C77692 /* WeekView.m */,
+				A26CCCDE1CF59E9D00C77692 /* MonthView.h */,
+				A26CCCDF1CF59E9D00C77692 /* MonthView.m */,
+				A26CCCE11CF59EA400C77692 /* YearView.h */,
+				A26CCCE21CF59EA400C77692 /* YearView.m */,
+			);
+			path = ConstellationViews;
+			sourceTree = "<group>";
+		};
 		A2D2E5231CEEF78E00F064B0 /* CBAutoScrollLabel */ = {
 			isa = PBXGroup;
 			children = (
@@ -959,6 +997,7 @@
 		F5CD72441CE379EE0057B115 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				A26CCCD71CF59E7D00C77692 /* ConstellationViews */,
 				A2D2E5231CEEF78E00F064B0 /* CBAutoScrollLabel */,
 				A2D2E5201CEEF6FC00F064B0 /* ChooseCityView.h */,
 				A2D2E5211CEEF6FC00F064B0 /* ChooseCityView.m */,
@@ -1211,6 +1250,7 @@
 				A2D2E5AF1CEEF86A00F064B0 /* night7.png in Resources */,
 				A216F72B1CE1B512009F5821 /* xingzuoyunshi.png in Resources */,
 				A2D2E5A81CEEF86A00F064B0 /* night3.png in Resources */,
+				A26CCCD61CF5953F00C77692 /* kuang@3x.png in Resources */,
 				A2D2E5B11CEEF86A00F064B0 /* night9.png in Resources */,
 				A2D2E5AE1CEEF86A00F064B0 /* night6.png in Resources */,
 				A2D2E5A71CEEF86A00F064B0 /* night29.png in Resources */,
@@ -1273,6 +1313,7 @@
 				A2D2E5A31CEEF86A00F064B0 /* night25.png in Resources */,
 				A2D2E5831CEEF86A00F064B0 /* day26.png in Resources */,
 				A2D2E57E1CEEF86A00F064B0 /* day21.png in Resources */,
+				A26CCCD51CF5953F00C77692 /* kuang@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1305,6 +1346,8 @@
 				A216F7D51CE1D06B009F5821 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				F5CFBE571CE237550004BDB8 /* MJRefreshBackFooter.m in Sources */,
 				F5CFBE601CE237550004BDB8 /* MJRefreshBackStateFooter.m in Sources */,
+				A26CCCE01CF59E9D00C77692 /* MonthView.m in Sources */,
+				A26CCCDD1CF59E9600C77692 /* WeekView.m in Sources */,
 				A216F78C1CE1BC7D009F5821 /* UIImageView+WebCache.m in Sources */,
 				A216F7841CE1BC7D009F5821 /* SDWebImageDownloaderOperation.m in Sources */,
 				A2419EFC1CE08C9B004FBEC0 /* AppDelegate.m in Sources */,
@@ -1355,6 +1398,7 @@
 				A216F7781CE1BC7D009F5821 /* MJPropertyType.m in Sources */,
 				A225ED5F1CE2D58400171799 /* CCWebViewController.m in Sources */,
 				A216F7791CE1BC7D009F5821 /* NSObject+MJClass.m in Sources */,
+				A26CCCD21CF58D8300C77692 /* ListView.m in Sources */,
 				A216F7811CE1BC7D009F5821 /* SDWebImageCompat.m in Sources */,
 				A216F7E51CE1F249009F5821 /* PhoneNumController.m in Sources */,
 				F5CFBE671CE237550004BDB8 /* UIScrollView+MJRefresh.m in Sources */,
@@ -1373,11 +1417,13 @@
 				F5CFBE1F1CE22C6A0004BDB8 /* WeiXinViewController.m in Sources */,
 				A216F7AA1CE1C42E009F5821 /* AFURLResponseSerialization.m in Sources */,
 				A216F7871CE1BC7D009F5821 /* UIButton+WebCache.m in Sources */,
+				A26CCCDA1CF59E8D00C77692 /* TodayView.m in Sources */,
 				F5CFBE221CE22C7B0004BDB8 /* WeiXinModel.m in Sources */,
 				A216F7A81CE1C42E009F5821 /* AFSecurityPolicy.m in Sources */,
 				A216F77C1CE1BC7D009F5821 /* NSObject+MJProperty.m in Sources */,
 				A216F77A1CE1BC7D009F5821 /* NSObject+MJCoding.m in Sources */,
 				F5CFBE611CE237550004BDB8 /* MJRefreshGifHeader.m in Sources */,
+				A26CCCE31CF59EA400C77692 /* YearView.m in Sources */,
 				A216F7391CE1BBB2009F5821 /* UIColor+Extension.m in Sources */,
 				A216F7941CE1BD10009F5821 /* MainModel.m in Sources */,
 				F5CFBE631CE237550004BDB8 /* MJRefreshStateHeader.m in Sources */,

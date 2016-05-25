@@ -15,6 +15,7 @@
 #import "WeatherController.h"
 #import "QQViewController.h"
 #import "JokeViewController.h"
+#import "ConstellationController.h"
 
 @interface MainViewController ()
 
@@ -71,7 +72,7 @@
             nextCtrl = [[WeatherController alloc]init];
             break;
         case 3://星座运势
-            [self.view makeToast:@"......"];
+            nextCtrl = [[ConstellationController alloc]init];
             break;
         case 4://笑话大全
             nextCtrl = [[JokeViewController alloc]init];
